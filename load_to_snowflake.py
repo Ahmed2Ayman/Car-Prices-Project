@@ -1,12 +1,12 @@
 import snowflake.connector
 import os 
 
-SNOWFLAKE_ACCOUNT = 'GLEFCJR-FP34266'
-SNOWFLAKE_USER = 'AHMEDAYMAN22'
-SNOWFLAKE_PASSWORD = 'Ahmed123456789' 
-SNOWFLAKE_WAREHOUSE = 'COMPUTE_WH'
-SNOWFLAKE_DATABASE = 'CAR_DATA'
-SNOWFLAKE_SCHEMA = 'PUBLIC'
+SNOWFLAKE_ACCOUNT = 'SNOWFLAKE_ACCOUNT'
+SNOWFLAKE_USER = 'SNOWFLAKE_USER'
+SNOWFLAKE_PASSWORD = 'SNOWFLAKE_PASSWORD' 
+SNOWFLAKE_WAREHOUSE = 'SNOWFLAKE_WAREHOUSE'
+SNOWFLAKE_DATABASE = 'SNOWFLAKE_DATABASE'
+SNOWFLAKE_SCHEMA = 'SNOWFLAKE_SCHEMA'
 
 usa_prices_file_local_path ="/opt/airflow/dags/cleaned/model_price_USA.csv"
 egypt_prices_file_local_path = "/opt/airflow/dags/cleaned/model_price_Egypt.csv"
@@ -66,4 +66,5 @@ finally:
         cur.close()
     if conn:
         conn.close()
+
         print("Connection closed.")
