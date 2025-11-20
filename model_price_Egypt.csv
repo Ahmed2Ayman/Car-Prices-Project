@@ -1,0 +1,901 @@
+Classes,Old Price,Price Change,New Price,date_range,brand,model
+Mitsubishi Eclipse Cross A/T / INFINITY - PL AWD 2025,1740000.0,-100000.0,1640000.0,2025-11-18,Mitsubishi,Eclipse Cross A/T / INFINITY - PL AWD 2025
+Mitsubishi Eclipse Cross A/T / Instyle TL 2025,1660000.0,-100000.0,1560000.0,2025-11-18,Mitsubishi,Eclipse Cross A/T / Instyle TL 2025
+Mitsubishi Eclipse Cross A/T / Inspire - HL 2025,1600000.0,-100000.0,1500000.0,2025-11-18,Mitsubishi,Eclipse Cross A/T / Inspire - HL 2025
+Mitsubishi Eclipse Cross A/T / Insport PLUS - ML PLUS 2025,1530000.0,-125000.0,1405000.0,2025-11-18,Mitsubishi,Eclipse Cross A/T / Insport PLUS - ML PLUS 2025
+Mitsubishi Eclipse Cross A/T / Insport BL 2025,1480000.0,-150000.0,1330000.0,2025-11-18,Mitsubishi,Eclipse Cross A/T / Insport BL 2025
+GAC GS4 max A/T / Premium 2025,1440000.0,-90000.0,1350000.0,2025-11-18,GAC,GS4 max A/T / Premium 2025
+Changan CS 35 Plus A/T / FLAGSHIP 2025,1150000.0,-25000.0,1125000.0,2025-11-16,Changan,CS 35 Plus A/T / FLAGSHIP 2025
+Changan CS 35 Plus A/T / PREMIUM 2025,1050000.0,-20000.0,1030000.0,2025-11-16,Changan,CS 35 Plus A/T / PREMIUM 2025
+Changan CS 35 Plus A/T / ELITE 2025,950000.0,-25000.0,925000.0,2025-11-16,Changan,CS 35 Plus A/T / ELITE 2025
+Changan UNI-T A/T / Flagship 2025,1550000.0,-100000.0,1450000.0,2025-11-16,Changan,UNI-T A/T / Flagship 2025
+Changan UNI-T A/T / Premium 2025,1450000.0,-100000.0,1350000.0,2025-11-16,Changan,UNI-T A/T / Premium 2025
+Haval H6 A/T / ULTRA 2026,1555000.0,-65000.0,1490000.0,2025-11-16,Haval,H6 A/T / ULTRA 2026
+Haval H6 A/T / Platinum 2026,1355000.0,-56000.0,1299000.0,2025-11-16,Haval,H6 A/T / Platinum 2026
+Haval H6 HEV A/T / High Deluxe 2026,1590000.0,-100000.0,1490000.0,2025-11-16,Haval,H6 HEV A/T / High Deluxe 2026
+Haval H6 HEV A/T / High Deluxe 2025,1570000.0,-100000.0,1470000.0,2025-11-16,Haval,H6 HEV A/T / High Deluxe 2025
+Proton Saga A/T / Premium 2026,670000.0,-20100.0,649900.0,2025-11-13,Proton,Saga A/T / Premium 2026
+Toyota Corolla A/T / Elegance 2026,1650000.0,-150000.0,1500000.0,2025-11-13,Toyota,Corolla A/T / Elegance 2026
+Toyota Corolla A/T / SMART 2026,1500000.0,-150000.0,1350000.0,2025-11-13,Toyota,Corolla A/T / SMART 2026
+Toyota Corolla AT / Comfort 2026,1400000.0,-150000.0,1250000.0,2025-11-13,Toyota,Corolla AT / Comfort 2026
+Toyota Corolla Automatic / Active 2026,1300000.0,-150000.0,1150000.0,2025-11-13,Toyota,Corolla Automatic / Active 2026
+Proton Saga A/T / Imported 2025,670000.0,-20000.0,650000.0,2025-11-12,Proton,Saga A/T / Imported 2025
+Citroën C4X A/T / Shine 2026,1449000.0,-100000.0,1349000.0,2025-11-11,Citroën,C4X A/T / Shine 2026
+Citroën C4X A/T / Feel 2026,1289000.0,-90000.0,1199000.0,2025-11-11,Citroën,C4X A/T / Feel 2026
+Haval Jolion Pro A/T / High Deluxe 2025,1340000.0,-141000.0,1199000.0,2025-11-06,Haval,Jolion Pro A/T / High Deluxe 2025
+Haval H6 A/T / Platinum 2026,1399000.0,-44000.0,1355000.0,2025-11-06,Haval,H6 A/T / Platinum 2026
+Haval Jolion A/T / High Deluxe 2025,1225000.0,-26000.0,1199000.0,2025-11-06,Haval,Jolion A/T / High Deluxe 2025
+Haval Jolion A/T / Deluxe SR 2025,1175000.0,-26000.0,1149000.0,2025-11-06,Haval,Jolion A/T / Deluxe SR 2025
+Hyundai Ioniq 5 A/T / N BOOST (AWD) 2025,3750000.0,-500000.0,3250000.0,2025-11-05,Hyundai,Ioniq 5 A/T / N BOOST (AWD) 2025
+Hyundai Ioniq 5 A/T / EXTREME AWD 2025,3350000.0,-600000.0,2750000.0,2025-11-05,Hyundai,Ioniq 5 A/T / EXTREME AWD 2025
+Hyundai Ioniq 5 A/T / EXTREME 2025,3150000.0,-600000.0,2550000.0,2025-11-05,Hyundai,Ioniq 5 A/T / EXTREME 2025
+Hyundai Ioniq 5 A/T /  CONNECT PLUS 2025,2750000.0,-600000.0,2150000.0,2025-11-05,Hyundai,Ioniq 5 A/T /  CONNECT PLUS 2025
+Hyundai Ioniq 6 A/T / EXTREME AWD 2025,3150000.0,-600000.0,2550000.0,2025-11-05,Hyundai,Ioniq 6 A/T / EXTREME AWD 2025
+Hyundai Ioniq 6 A/T / EXTREME RWD 2025,2950000.0,-600000.0,2350000.0,2025-11-05,Hyundai,Ioniq 6 A/T / EXTREME RWD 2025
+Hyundai Ioniq 6 A/T / CONNECT PLUS 2025,2700000.0,-600000.0,2100000.0,2025-11-05,Hyundai,Ioniq 6 A/T / CONNECT PLUS 2025
+Hyundai Santa Fe Automtic 2025,3150000.0,-250000.0,2900000.0,2025-11-05,Hyundai,Santa Fe Automtic 2025
+Hyundai Santa Fe A/T / 4w 2025,3650000.0,-250000.0,3400000.0,2025-11-05,Hyundai,Santa Fe A/T / 4w 2025
+Chevrolet Optra A/T / Ls 2026,744900.0,-20000.0,724900.0,2025-11-04,Chevrolet,Optra A/T / Ls 2026
+Chevrolet Optra A/T / Lt 2026,769900.0,-20000.0,749900.0,2025-11-04,Chevrolet,Optra A/T / Lt 2026
+Baic U5 plus A/T / Highline 2025,749900.0,20000.0,769900.0,2025-11-03,Baic,U5 plus A/T / Highline 2025
+Ds Ds4 A/T / Trocadero 2025,2060000.0,-170000.0,1890000.0,2025-11-03,Ds,Ds4 A/T / Trocadero 2025
+Ds Ds4 A/T / Performance Line 2025,2200000.0,-200000.0,2000000.0,2025-11-03,Ds,Ds4 A/T / Performance Line 2025
+Hyundai Tucson A/T / N-Line 2025,2199000.0,-100000.0,2099000.0,2025-11-02,Hyundai,Tucson A/T / N-Line 2025
+Hyundai Tucson A/T / BLACK DIAMOND 2025,2099000.0,-100000.0,1999000.0,2025-11-02,Hyundai,Tucson A/T / BLACK DIAMOND 2025
+Hyundai Tucson A/T / NIGHT 2025,1999000.0,-100000.0,1899000.0,2025-11-02,Hyundai,Tucson A/T / NIGHT 2025
+Hyundai Tucson A/T / Redine 2025,1900000.0,-151000.0,1749000.0,2025-11-02,Hyundai,Tucson A/T / Redine 2025
+Hyundai Tucson A/T / Blaze 2025,1749000.0,-100000.0,1649000.0,2025-11-02,Hyundai,Tucson A/T / Blaze 2025
+Hyundai Tucson A/T / SHADOW 2025,1599000.0,-100000.0,1499000.0,2025-11-02,Hyundai,Tucson A/T / SHADOW 2025
+Hyundai Tucson A/T / N-Line 2026,2250000.0,-100000.0,2150000.0,2025-11-02,Hyundai,Tucson A/T / N-Line 2026
+Hyundai Tucson A/T / BLACK DIAMOND 2026,2150000.0,-100000.0,2050000.0,2025-11-02,Hyundai,Tucson A/T / BLACK DIAMOND 2026
+Hyundai Tucson A/T / NIGHT 2026,2050000.0,-100000.0,1950000.0,2025-11-02,Hyundai,Tucson A/T / NIGHT 2026
+Hyundai Tucson A/T / Redine 2026,1900000.0,-100000.0,1800000.0,2025-11-02,Hyundai,Tucson A/T / Redine 2026
+Hyundai Tucson A/T / Blaze 2026,1800000.0,-100000.0,1700000.0,2025-11-02,Hyundai,Tucson A/T / Blaze 2026
+Hyundai Tucson A/T / SHADOW 2026,1650000.0,-100000.0,1550000.0,2025-11-02,Hyundai,Tucson A/T / SHADOW 2026
+Kaiyi X3 Pro A/T / Flagship 2026,849900.0,10000.0,859900.0,2025-11-02,Kaiyi,X3 Pro A/T / Flagship 2026
+Kaiyi X3 Pro A/T / Top Line 2026,810000.0,-10005.0,799995.0,2025-11-02,Kaiyi,X3 Pro A/T / Top Line 2026
+Rox 01 A/T / Family 7 seats 2025,3650000.0,-450000.0,3200000.0,2025-11-02,Rox,01 A/T / Family 7 seats 2025
+Rox 01 A/T / Aviation 6 seats 2025,3735000.0,-435000.0,3300000.0,2025-11-02,Rox,01 A/T / Aviation 6 seats 2025
+Volkswagen Golf A/T / Life 2025,1750000.0,-60000.0,1690000.0,2025-10-28,Volkswagen,Golf A/T / Life 2025
+Volkswagen Tiguan A/T / R-Line 2025,2550000.0,-200000.0,2350000.0,2025-10-28,Volkswagen,Tiguan A/T / R-Line 2025
+Baic X7 A/T / Premium 2025,1724900.0,-195000.0,1529900.0,2025-10-27,Baic,X7 A/T / Premium 2025
+Baic X7 A/T / Top Line 2025,1649900.0,-195000.0,1454900.0,2025-10-27,Baic,X7 A/T / Top Line 2025
+Baic X7 A/T / Highline 2025,1574900.0,-195000.0,1379900.0,2025-10-27,Baic,X7 A/T / Highline 2025
+Volvo EX30 A/T / Twin Plus Performance 2025,2270000.0,-320000.0,1950000.0,2025-10-21,Volvo,EX30 A/T / Twin Plus Performance 2025
+Volvo EX30 A/T / Single Ultra Extended Range 2025,2230000.0,-431000.0,1799000.0,2025-10-21,Volvo,EX30 A/T / Single Ultra Extended Range 2025
+Volvo EX30 A/T / Single PLUS Extended Range 2025,2030000.0,-331000.0,1699000.0,2025-10-21,Volvo,EX30 A/T / Single PLUS Extended Range 2025
+Peugeot 5008 A/T / GT 2026,2574990.0,-125000.0,2449990.0,2025-10-21,Peugeot,5008 A/T / GT 2026
+Peugeot 5008 A/T / Allure 2026,2284990.0,-110000.0,2174990.0,2025-10-21,Peugeot,5008 A/T / Allure 2026
+Peugeot 3008 A/T / GT 2026,2349990.0,-100000.0,2249990.0,2025-10-21,Peugeot,3008 A/T / GT 2026
+Peugeot 3008 A/T / Allure 2026,2049990.0,-60000.0,1989990.0,2025-10-21,Peugeot,3008 A/T / Allure 2026
+Peugeot 408 A/T / GT 2026,2299990.0,-100000.0,2199990.0,2025-10-21,Peugeot,408 A/T / GT 2026
+Peugeot 408 A/T / ALLURE PACK 2026,1949990.0,-60000.0,1889990.0,2025-10-21,Peugeot,408 A/T / ALLURE PACK 2026
+Skoda Karoq A/T / Suite 2026,2150000.0,-200000.0,1950000.0,2025-10-15,Skoda,Karoq A/T / Suite 2026
+Skoda Superb A/T / Selection 2026,2550000.0,-50000.0,2500000.0,2025-10-15,Skoda,Superb A/T / Selection 2026
+Skoda Kodiaq A/T / Sportline 2026,3250000.0,-150000.0,3100000.0,2025-10-15,Skoda,Kodiaq A/T / Sportline 2026
+Skoda Kodiaq A/T / Suite 2026,2950000.0,-200000.0,2750000.0,2025-10-15,Skoda,Kodiaq A/T / Suite 2026
+Skoda Kodiaq A/T / Loft 2026,2550000.0,-100000.0,2450000.0,2025-10-15,Skoda,Kodiaq A/T / Loft 2026
+Skoda Octavia A8 A/T / Suite 2026,2100000.0,-150000.0,1950000.0,2025-10-15,Skoda,Octavia A8 A/T / Suite 2026
+Skoda Octavia A8 A/T / Lounge 2026,1950000.0,-100000.0,1850000.0,2025-10-15,Skoda,Octavia A8 A/T / Lounge 2026
+Skoda Octavia A8 A/T / Loft 2026,1750000.0,-100000.0,1650000.0,2025-10-15,Skoda,Octavia A8 A/T / Loft 2026
+Kaiyi X3 Pro A/T / Flagship 2026,948750.0,-98850.0,849900.0,2025-10-13,Kaiyi,X3 Pro A/T / Flagship 2026
+Kaiyi X3 Pro A/T / Top Line 2026,915000.0,-105000.0,810000.0,2025-10-13,Kaiyi,X3 Pro A/T / Top Line 2026
+Renault Austral A/T / Esprit Alpine / B/E 2026,2020000.0,-250000.0,1770000.0,2025-10-13,Renault,Austral A/T / Esprit Alpine / B/E 2026
+Renault Austral A/T /  Esprit Alpine 2026,1990000.0,-250000.0,1740000.0,2025-10-13,Renault,Austral A/T /  Esprit Alpine 2026
+Renault Austral A/T / Iconic 2026,1880000.0,-250000.0,1630000.0,2025-10-13,Renault,Austral A/T / Iconic 2026
+Renault Austral A/T / Techno 2026,1770000.0,-200000.0,1570000.0,2025-10-13,Renault,Austral A/T / Techno 2026
+Renault Austral A/T / Evolution 2026,1590000.0,-190000.0,1400000.0,2025-10-13,Renault,Austral A/T / Evolution 2026
+Volvo XC90 A/T / Ultimate 2025,5290000.0,-340000.0,4950000.0,2025-10-13,Volvo,XC90 A/T / Ultimate 2025
+Zeekr 001 A/T / Performance AWD 2025,3300000.0,-351000.0,2949000.0,2025-10-08,Zeekr,001 A/T / Performance AWD 2025
+Zeekr 001 A/T / Privilege AWD 2025,2980000.0,-231000.0,2749000.0,2025-10-08,Zeekr,001 A/T / Privilege AWD 2025
+Zeekr 001 A/T / Long Range 2025,2700000.0,-251000.0,2449000.0,2025-10-08,Zeekr,001 A/T / Long Range 2025
+Zeekr X A/T / Performance 2025,2250000.0,-401000.0,1849000.0,2025-10-08,Zeekr,X A/T / Performance 2025
+Zeekr X A/T / Long Range 2025,2100000.0,-401000.0,1699000.0,2025-10-08,Zeekr,X A/T / Long Range 2025
+Ds DS7 A/T / Etoile 2025,2850000.0,-175000.0,2675000.0,2025-10-07,Ds,DS7 A/T / Etoile 2025
+Ds DS7 A/T / pallas 2025,2595000.0,-245000.0,2350000.0,2025-10-07,Ds,DS7 A/T / pallas 2025
+MG ZS A/T / Luxury 2026,1080000.0,-30010.0,1049990.0,2025-10-06,MG,ZS A/T / Luxury 2026
+MG ZS Automatic / Comfort 2026,990000.0,-60010.0,929990.0,2025-10-06,MG,ZS Automatic / Comfort 2026
+MG 5 A/T / Luxury 2026,950000.0,-50010.0,899990.0,2025-10-06,MG,5 A/T / Luxury 2026
+Hyundai Accent RB A/T / Highline 2026,930000.0,-31000.0,899000.0,2025-10-06,Hyundai,Accent RB A/T / Highline 2026
+Hyundai Accent RB A/T / DAB ABS 2026,875000.0,-25000.0,850000.0,2025-10-06,Hyundai,Accent RB A/T / DAB ABS 2026
+Hyundai Accent RB A/T / SR 2026,829900.0,-20000.0,809900.0,2025-10-06,Hyundai,Accent RB A/T / SR 2026
+Hyundai Accent RB A/T / GL 2026,799900.0,-20000.0,779900.0,2025-10-06,Hyundai,Accent RB A/T / GL 2026
+Nissan Qashqai AT / N-Design e-PWR 2025,1899000.0,-15000.0,1884000.0,2025-10-01,Nissan,Qashqai AT / N-Design e-PWR 2025
+Nissan Qashqai AT / N-Connecta 2025,1499000.0,-35000.0,1464000.0,2025-10-01,Nissan,Qashqai AT / N-Connecta 2025
+Nissan Juke AT / N-Design 2025,1218000.0,7000.0,1225000.0,2025-10-01,Nissan,Juke AT / N-Design 2025
+Nissan Juke AT / Tekna 2025,1168000.0,7000.0,1175000.0,2025-10-01,Nissan,Juke AT / Tekna 2025
+Nissan Juke AT / ACCENTA 2025,1068000.0,7000.0,1075000.0,2025-10-01,Nissan,Juke AT / ACCENTA 2025
+Nissan XTrail A/T / E-4orce Tekna 2026,2350000.0,-50010.0,2299990.0,2025-10-01,Nissan,XTrail A/T / E-4orce Tekna 2026
+Nissan XTrail A/T / N-Terk 2026,2130000.0,-50010.0,2079990.0,2025-10-01,Nissan,XTrail A/T / N-Terk 2026
+Nissan XTrail A/T / Acenta 2WD 2026,2050000.0,-50010.0,1999990.0,2025-10-01,Nissan,XTrail A/T / Acenta 2WD 2026
+Nissan Sentra A/T / Highline 2026,920000.0,-21000.0,899000.0,2025-10-01,Nissan,Sentra A/T / Highline 2026
+Nissan Sunny A/T / Super Saloon 2026,810000.0,-15000.0,795000.0,2025-10-01,Nissan,Sunny A/T / Super Saloon 2026
+Nissan Sunny A/T / plus 2026,780000.0,-35000.0,745000.0,2025-10-01,Nissan,Sunny A/T / plus 2026
+Nissan Sunny A/T / Baseline 2026,735000.0,-45000.0,690000.0,2025-10-01,Nissan,Sunny A/T / Baseline 2026
+Smart 3 A/T / BRABUS 2025,2690000.0,-300000.0,2390000.0,2025-10-01,Smart,3 A/T / BRABUS 2025
+Smart 3 A/T / Premium 2025,2490000.0,-300000.0,2190000.0,2025-10-01,Smart,3 A/T / Premium 2025
+Smart 3 A/T / Pro+ 2025,2290000.0,-300000.0,1990000.0,2025-10-01,Smart,3 A/T / Pro+ 2025
+Smart 1 A/T / BRABUS 2025,2440000.0,-300000.0,2140000.0,2025-10-01,Smart,1 A/T / BRABUS 2025
+Smart 1 A/T / Premium 2025,2290000.0,-300000.0,1990000.0,2025-10-01,Smart,1 A/T / Premium 2025
+Smart 1 A/T / Pure+ 2025,1890000.0,-400000.0,1490000.0,2025-10-01,Smart,1 A/T / Pure+ 2025
+Smart 1 A/T / Pro+ 2025,2140000.0,-300000.0,1840000.0,2025-10-01,Smart,1 A/T / Pro+ 2025
+KGM Torres Automtic /adventure plus 4*4 2025,2090000.0,-50000.0,2040000.0,2025-09-30,KGM,Torres Automtic /adventure plus 4*4 2025
+KGM Torres A/T / Luxury 2025,1990000.0,-50000.0,1940000.0,2025-09-30,KGM,Torres A/T / Luxury 2025
+KGM Torres A/T / Premium 2025,1849000.0,-50000.0,1799000.0,2025-09-30,KGM,Torres A/T / Premium 2025
+KGM Torres Automtic /advanced 2025,1699000.0,-49000.0,1650000.0,2025-09-30,KGM,Torres Automtic /advanced 2025
+KGM Torres Automtic /comfort 2025,1575000.0,-50000.0,1525000.0,2025-09-30,KGM,Torres Automtic /comfort 2025
+Hongqi Ousado A/T / Comfort 2026,1500000.0,-10000.0,1490000.0,2025-09-30,Hongqi,Ousado A/T / Comfort 2026
+Hyundai Tucson A/T / Blaze 2026,1650000.0,150000.0,1800000.0,2025-09-28,Hyundai,Tucson A/T / Blaze 2026
+Hyundai Tucson A/T / Redine 2025,1849000.0,51000.0,1900000.0,2025-09-28,Hyundai,Tucson A/T / Redine 2025
+Changan Eado plus A/T / Flagship 2026,1265000.0,-65000.0,1200000.0,2025-09-28,Changan,Eado plus A/T / Flagship 2026
+Changan Eado plus A/T / Premium 2026,1165000.0,-65000.0,1100000.0,2025-09-28,Changan,Eado plus A/T / Premium 2026
+Changan Eado plus A/T / Elite 2026,1065000.0,-15000.0,1050000.0,2025-09-28,Changan,Eado plus A/T / Elite 2026
+Alfa Romeo Tonale AT / sprint 2025,2690000.0,-65000.0,2625000.0,2025-09-25,Alfa Romeo,Romeo Tonale AT / sprint 2025
+Alfa Romeo Stelvio A/T / Veloce 2025,3850000.0,-300000.0,3550000.0,2025-09-25,Alfa Romeo,Romeo Stelvio A/T / Veloce 2025
+Alfa Romeo Stelvio A/T / Sprint 2025,3500000.0,-175000.0,3325000.0,2025-09-25,Alfa Romeo,Romeo Stelvio A/T / Sprint 2025
+Alfa Romeo Giulia A/T / Veloce 2025,3300000.0,-151000.0,3149000.0,2025-09-25,Alfa Romeo,Romeo Giulia A/T / Veloce 2025
+Alfa Romeo Giulia AT / sprint 2025,3000000.0,-251000.0,2749000.0,2025-09-25,Alfa Romeo,Romeo Giulia AT / sprint 2025
+Jetour T2 A/T / Luxury 2026,1865000.0,-90000.0,1775000.0,2025-09-23,Jetour,T2 A/T / Luxury 2026
+Jetour T1 A/T / Luxury 2026,1695000.0,-110000.0,1585000.0,2025-09-23,Jetour,T1 A/T / Luxury 2026
+GAC GS3  Emzoom Automatic / RS Style 2025,1385000.0,-110000.0,1275000.0,2025-09-22,GAC,GS3  Emzoom Automatic / RS Style 2025
+GAC GS3  Emzoom Automatic / GL 2025,1255000.0,-60000.0,1195000.0,2025-09-22,GAC,GS3  Emzoom Automatic / GL 2025
+GAC GS3  Emzoom Automtic / GB 2025,1155000.0,-40000.0,1115000.0,2025-09-22,GAC,GS3  Emzoom Automtic / GB 2025
+GAC GS3  Emzoom Automtic /GS 2025,1095000.0,-40000.0,1055000.0,2025-09-22,GAC,GS3  Emzoom Automtic /GS 2025
+Baic BJ30 A/T / ULTRA 2025,1789900.0,-115000.0,1674900.0,2025-09-16,Baic,BJ30 A/T / ULTRA 2025
+Baic BJ30 A/T / PRO 2025,1689900.0,-115000.0,1574900.0,2025-09-16,Baic,BJ30 A/T / PRO 2025
+Baic U5 plus A/T / Top Line 2025,899900.0,-45000.0,854900.0,2025-09-16,Baic,U5 plus A/T / Top Line 2025
+Baic U5 plus A/T / Highline 2025,799900.0,-50000.0,749900.0,2025-09-16,Baic,U5 plus A/T / Highline 2025
+Citroën C4 A/T / Shine Two Tone 2026,1550000.0,-160000.0,1390000.0,2025-09-16,Citroën,C4 A/T / Shine Two Tone 2026
+Citroën C5 Aircross A/T / Shine 2026,1850000.0,-120000.0,1730000.0,2025-09-16,Citroën,C5 Aircross A/T / Shine 2026
+Citroën C5 Aircross A/T / Shine Entry 2026,1720000.0,-130000.0,1590000.0,2025-09-16,Citroën,C5 Aircross A/T / Shine Entry 2026
+Xpeng G9 A/T /  Long Range + Nappa 2025,3350000.0,30000.0,3380000.0,2025-09-15,Xpeng,G9 A/T /  Long Range + Nappa 2025
+Xpeng G9 A/T / Performance 2025,3700000.0,-200000.0,3500000.0,2025-09-15,Xpeng,G9 A/T / Performance 2025
+Xpeng G6 A/T / STANDARD RANGE 2025,2390000.0,60000.0,2450000.0,2025-09-15,Xpeng,G6 A/T / STANDARD RANGE 2025
+Xpeng G6 A/T / LONG RANGE 2025,2590000.0,10000.0,2600000.0,2025-09-15,Xpeng,G6 A/T / LONG RANGE 2025
+Renault Megane A/T / Signature Turbo 2026,1450000.0,-160000.0,1290000.0,2025-09-14,Renault,Megane A/T / Signature Turbo 2026
+Renault Megane A/T / Signature 2026,1350000.0,-160000.0,1190000.0,2025-09-14,Renault,Megane A/T / Signature 2026
+Renault Megane A/T / Dynamic 2026,1250000.0,-160000.0,1090000.0,2025-09-14,Renault,Megane A/T / Dynamic 2026
+Renault Duster A/T / H3 2026,1399900.0,-79900.0,1320000.0,2025-09-14,Renault,Duster A/T / H3 2026
+Renault Duster A/T / H2 2026,1324900.0,-84900.0,1240000.0,2025-09-14,Renault,Duster A/T / H2 2026
+Renault Duster A/T / H1 2026,1224900.0,-74900.0,1150000.0,2025-09-14,Renault,Duster A/T / H1 2026
+Peugeot 3008 A/T / GT 2026,2459990.0,-110000.0,2349990.0,2025-09-14,Peugeot,3008 A/T / GT 2026
+Peugeot 3008 A/T / Allure 2026,2199990.0,-150000.0,2049990.0,2025-09-14,Peugeot,3008 A/T / Allure 2026
+Peugeot 5008 A/T / GT 2026,2674990.0,-100000.0,2574990.0,2025-09-14,Peugeot,5008 A/T / GT 2026
+Peugeot 5008 A/T / Allure 2026,2424990.0,-140000.0,2284990.0,2025-09-14,Peugeot,5008 A/T / Allure 2026
+Opel Mokka A/T / Black Edition 2026,1490000.0,-100000.0,1390000.0,2025-09-14,Opel,Mokka A/T / Black Edition 2026
+Skoda Kodiaq A/T / Loft 2025,2549000.0,-49000.0,2500000.0,2025-09-09,Skoda,Kodiaq A/T / Loft 2025
+Skoda Karoq A/T / Luxury 2025,2250000.0,-150000.0,2100000.0,2025-09-09,Skoda,Karoq A/T / Luxury 2025
+Skoda Kodiaq A/T / Sportline 2025,3299000.0,-99000.0,3200000.0,2025-09-09,Skoda,Kodiaq A/T / Sportline 2025
+Skoda Kodiaq A/T / Suite 2025,3099000.0,-199000.0,2900000.0,2025-09-09,Skoda,Kodiaq A/T / Suite 2025
+Skoda Kodiaq A/T / Lounge 2025,2799000.0,-99000.0,2700000.0,2025-09-09,Skoda,Kodiaq A/T / Lounge 2025
+Skoda Octavia A8 A/T / Suite 2025,2199000.0,-149000.0,2050000.0,2025-09-09,Skoda,Octavia A8 A/T / Suite 2025
+Skoda Octavia A8 A/T / Lounge 2025,1999000.0,-99000.0,1900000.0,2025-09-09,Skoda,Octavia A8 A/T / Lounge 2025
+Skoda Octavia A8 A/T / Loft 2025,1799000.0,-99000.0,1700000.0,2025-09-09,Skoda,Octavia A8 A/T / Loft 2025
+Geely Cool Ray A/T / sport / (Abou Ghaly) 2025,1596000.0,-297000.0,1299000.0,2025-09-02,Geely,Cool Ray A/T / sport / (Abou Ghaly) 2025
+Geely Cool Ray A/T / Premium / (Abou Ghaly) 2025,1446000.0,-247000.0,1199000.0,2025-09-02,Geely,Cool Ray A/T / Premium / (Abou Ghaly) 2025
+Geely Cool Ray A/T / GL / (Abou Ghaly) 2025,1376000.0,-277000.0,1099000.0,2025-09-02,Geely,Cool Ray A/T / GL / (Abou Ghaly) 2025
+Geely Emgrand A/T / Luxury / (Abou Ghaly) 2025,999000.0,-60000.0,939000.0,2025-09-02,Geely,Emgrand A/T / Luxury / (Abou Ghaly) 2025
+Geely Emgrand A/T / Comfort / (Abou Ghaly) 2025,879000.0,-40000.0,839000.0,2025-09-02,Geely,Emgrand A/T / Comfort / (Abou Ghaly) 2025
+Geely Starray A/T / Sport + (Abou Ghaly) 2025,1879000.0,-110000.0,1769000.0,2025-09-02,Geely,Starray A/T / Sport + (Abou Ghaly) 2025
+Geely Starray A/T / Sport (Abou Ghaly) 2025,1799000.0,-100000.0,1699000.0,2025-09-02,Geely,Starray A/T / Sport (Abou Ghaly) 2025
+Geely Starray A/T / Premium (Abou Ghaly) 2025,1699000.0,-100000.0,1599000.0,2025-09-02,Geely,Starray A/T / Premium (Abou Ghaly) 2025
+Geely Starray A/T / Comfort / (Abou Ghaly) 2025,1599000.0,-100000.0,1499000.0,2025-09-02,Geely,Starray A/T / Comfort / (Abou Ghaly) 2025
+Seat Arona A/T / FR / Black 2025,1349000.0,-60000.0,1289000.0,2025-09-02,Seat,Arona A/T / FR / Black 2025
+Seat Ateca A/T / FR 2025,1949000.0,-100000.0,1849000.0,2025-09-02,Seat,Ateca A/T / FR 2025
+Seat Ateca A/T / Style Plus 2025,1749000.0,-40000.0,1709000.0,2025-09-02,Seat,Ateca A/T / Style Plus 2025
+Seat Leon A/T / Advance 2025,1499000.0,-25000.0,1474000.0,2025-09-02,Seat,Leon A/T / Advance 2025
+Seat Arona A/T / Experience 2025,1319000.0,-30000.0,1289000.0,2025-09-02,Seat,Arona A/T / Experience 2025
+Seat Ibiza A/T / Black Series 2025,1339000.0,-80000.0,1259000.0,2025-09-02,Seat,Ibiza A/T / Black Series 2025
+Seat Ibiza A/T / FR 2025,1269000.0,-70000.0,1199000.0,2025-09-02,Seat,Ibiza A/T / FR 2025
+Seat Ibiza A/T / Reference 2025,1069000.0,-70000.0,999000.0,2025-09-02,Seat,Ibiza A/T / Reference 2025
+Nissan Sentra A/T / Highline 2026,888000.0,32000.0,920000.0,2025-09-02,Nissan,Sentra A/T / Highline 2026
+Haval Jolion A/T / High Deluxe 2025,1300000.0,-75000.0,1225000.0,2025-09-02,Haval,Jolion A/T / High Deluxe 2025
+Haval Jolion A/T / Deluxe SR 2025,1250000.0,-75000.0,1175000.0,2025-09-02,Haval,Jolion A/T / Deluxe SR 2025
+Haval H6 HEV A/T / High Deluxe 2026,1690000.0,-100000.0,1590000.0,2025-09-02,Haval,H6 HEV A/T / High Deluxe 2026
+Haval H6 HEV A/T / High Deluxe 2025,1660000.0,-90000.0,1570000.0,2025-09-02,Haval,H6 HEV A/T / High Deluxe 2025
+Cupra Terramar AT / CONTROL 2025,2539000.0,-240000.0,2299000.0,2025-09-02,Cupra,Terramar AT / CONTROL 2025
+Cupra Terramar A/T / IMPULSE 2025,2449000.0,-250000.0,2199000.0,2025-09-02,Cupra,Terramar A/T / IMPULSE 2025
+Cupra Leon Automatic 2025,1799000.0,-55000.0,1744000.0,2025-09-02,Cupra,Leon Automatic 2025
+Jac JS6 A/T / LIMITED 2026,1225000.0,15000.0,1240000.0,2025-09-01,Jac,JS6 A/T / LIMITED 2026
+Hyundai Elantra AD A/T / Top Line 2025,1170000.0,-50000.0,1120000.0,2025-09-01,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,1065000.0,-50000.0,1015000.0,2025-09-01,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,985000.0,-50000.0,935000.0,2025-09-01,Hyundai,Elantra AD A/T / Smart 2025
+Hyundai Elantra AD A/T / Top Line 2026,1185000.0,-50000.0,1135000.0,2025-09-01,Hyundai,Elantra AD A/T / Top Line 2026
+Hyundai Elantra AD A/T / Modern 2026,1080000.0,-50000.0,1030000.0,2025-09-01,Hyundai,Elantra AD A/T / Modern 2026
+Hyundai Elantra AD A/T / Smart 2026,995000.0,-50000.0,945000.0,2025-09-01,Hyundai,Elantra AD A/T / Smart 2026
+Chery Tiggo 7 A/T / Highline 2026,1080000.0,-81000.0,999000.0,2025-09-01,Chery,Tiggo 7 A/T / Highline 2026
+Chery Tiggo 7 A/T /  Baseline 2026,995000.0,-66000.0,929000.0,2025-09-01,Chery,Tiggo 7 A/T /  Baseline 2026
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2026,1055000.0,-75000.0,980000.0,2025-09-01,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2026
+Chery Tiggo 4 Pro A/T / Luxury 2026,980000.0,-65000.0,915000.0,2025-09-01,Chery,Tiggo 4 Pro A/T / Luxury 2026
+Chery Tiggo 4 Pro A/T / Comfort 2026,900000.0,-25000.0,875000.0,2025-09-01,Chery,Tiggo 4 Pro A/T / Comfort 2026
+Chery EQ7 Automtic 2026,1720000.0,-121000.0,1599000.0,2025-09-01,Chery,EQ7 Automtic 2026
+Geely Cool Ray A/T / Sport (AUTO MOBILITY) Local simplified 2025,1299000.0,-100000.0,1199000.0,2025-08-27,Geely,Cool Ray A/T / Sport (AUTO MOBILITY) Local simplified 2025
+Geely Cool Ray A/T / Premium ( AUTO MOBILITY) Local simplified 2025,1199000.0,-100000.0,1099000.0,2025-08-27,Geely,Cool Ray A/T / Premium ( AUTO MOBILITY) Local simplified 2025
+Geely Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025,1099000.0,-100000.0,999000.0,2025-08-27,Geely,Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025
+Geely Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025,999000.0,100000.0,1099000.0,2025-08-27,Geely,Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025
+Geely Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025,1099000.0,-100000.0,999000.0,2025-08-27,Geely,Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025
+Geely Emgrand Automtic / Luxury /  ( AUTO MOBILITY)Local simplified 2025,999000.0,-60000.0,939000.0,2025-08-27,Geely,Emgrand Automtic / Luxury /  ( AUTO MOBILITY)Local simplified 2025
+Geely Emgrand Automatic / Comfort /  ( AUTO MOBILITY)Local simplified 2025,879000.0,-40000.0,839000.0,2025-08-27,Geely,Emgrand Automatic / Comfort /  ( AUTO MOBILITY)Local simplified 2025
+GAC Empow A/T / GE S-Style 2025,1385000.0,-45000.0,1340000.0,2025-08-27,GAC,Empow A/T / GE S-Style 2025
+GAC Empow A/T / GB 2025,1275000.0,-45000.0,1230000.0,2025-08-27,GAC,Empow A/T / GB 2025
+GAC Empow A/T / GS 2025,1125000.0,-45000.0,1080000.0,2025-08-27,GAC,Empow A/T / GS 2025
+Mitsubishi Mirage A/T / Highline 2025,805000.0,-50000.0,755000.0,2025-08-26,Mitsubishi,Mirage A/T / Highline 2025
+Mitsubishi Attrage A/T / Highline 2025,790000.0,-50000.0,740000.0,2025-08-26,Mitsubishi,Attrage A/T / Highline 2025
+Mitsubishi Eclipse Cross A/T / INFINITY - PL AWD 2025,1880000.0,-140000.0,1740000.0,2025-08-26,Mitsubishi,Eclipse Cross A/T / INFINITY - PL AWD 2025
+Mitsubishi Eclipse Cross A/T / Instyle TL 2025,1800000.0,-140000.0,1660000.0,2025-08-26,Mitsubishi,Eclipse Cross A/T / Instyle TL 2025
+Mitsubishi Eclipse Cross A/T / Inspire - HL 2025,1750000.0,-150000.0,1600000.0,2025-08-26,Mitsubishi,Eclipse Cross A/T / Inspire - HL 2025
+Mitsubishi Eclipse Cross A/T / Insport PLUS - ML PLUS 2025,1700000.0,-170000.0,1530000.0,2025-08-26,Mitsubishi,Eclipse Cross A/T / Insport PLUS - ML PLUS 2025
+Mitsubishi Eclipse Cross A/T / Insport BL 2025,1650000.0,-170000.0,1480000.0,2025-08-26,Mitsubishi,Eclipse Cross A/T / Insport BL 2025
+Mitsubishi Outlander Sport Automtic / PREMIUM LINE 2025,1550000.0,-100000.0,1450000.0,2025-08-26,Mitsubishi,Outlander Sport Automtic / PREMIUM LINE 2025
+Mitsubishi Outlander Sport Automtic / HIGH LINE 2025,1425000.0,-100000.0,1325000.0,2025-08-26,Mitsubishi,Outlander Sport Automtic / HIGH LINE 2025
+Mitsubishi Outlander Sport A/T / Midline 2025,1375000.0,-100000.0,1275000.0,2025-08-26,Mitsubishi,Outlander Sport A/T / Midline 2025
+Jetour X70 Plus A/T / Luxury local 2025,1130000.0,30000.0,1160000.0,2025-08-25,Jetour,X70 Plus A/T / Luxury local 2025
+Vgv U70P Plus A/T / Highline 2025,1069900.0,-50000.0,1019900.0,2025-08-25,Vgv,U70P Plus A/T / Highline 2025
+Vgv U70Pro Plus A/T / Top Line 2025,1189990.0,-90090.0,1099900.0,2025-08-25,Vgv,U70Pro Plus A/T / Top Line 2025
+Kaiyi X3 Pro A/T / Flagship 2026,995000.0,-46250.0,948750.0,2025-08-24,Kaiyi,X3 Pro A/T / Flagship 2026
+Kaiyi X3 Pro A/T / Top Line 2026,945000.0,-30000.0,915000.0,2025-08-24,Kaiyi,X3 Pro A/T / Top Line 2026
+MG HS A/T / Luxury 2026,1450000.0,150000.0,1600000.0,2025-08-24,MG,HS A/T / Luxury 2026
+Changan UNI-V A/T / Flagship 2026,1325000.0,25000.0,1350000.0,2025-08-24,Changan,UNI-V A/T / Flagship 2026
+MG HS A/T / Luxury 2026,1600000.0,-150000.0,1450000.0,2025-08-24,MG,HS A/T / Luxury 2026
+MG RX5 Plus A/T / Luxury 2026,1490000.0,-110000.0,1380000.0,2025-08-24,MG,RX5 Plus A/T / Luxury 2026
+MG One A/T / Luxury 2026,1420000.0,-120100.0,1299900.0,2025-08-24,MG,One A/T / Luxury 2026
+Ds Ds4 A/T / Performance Line 2024,2150000.0,-50000.0,2100000.0,2025-08-20,Ds,Ds4 A/T / Performance Line 2024
+Lynkco 06 A/T / Hyper Halo 2025,1599000.0,-149000.0,1450000.0,2025-08-17,Lynkco,06 A/T / Hyper Halo 2025
+Lynkco 06 A/T / Hyper Pro 2025,1499000.0,-149000.0,1350000.0,2025-08-17,Lynkco,06 A/T / Hyper Pro 2025
+Lynkco 06 A/T / Core Plus 2025,1389000.0,-139000.0,1250000.0,2025-08-17,Lynkco,06 A/T / Core Plus 2025
+GAC GS4 Automtic / GE 2025,1385000.0,-30000.0,1355000.0,2025-08-10,GAC,GS4 Automtic / GE 2025
+GAC GS4 Automtic / GB 2025,1315000.0,-50000.0,1265000.0,2025-08-10,GAC,GS4 Automtic / GB 2025
+GAC GS4 Automtic / GS 2025,1235000.0,-50000.0,1185000.0,2025-08-10,GAC,GS4 Automtic / GS 2025
+Chevrolet Optra A/T / Lt 2026,790000.0,-20100.0,769900.0,2025-08-07,Chevrolet,Optra A/T / Lt 2026
+Chevrolet Optra A/T / Ls 2026,765000.0,-20100.0,744900.0,2025-08-07,Chevrolet,Optra A/T / Ls 2026
+Chevrolet Captiva A/T / LV3 (7seats) 2025,1550000.0,-350000.0,1200000.0,2025-08-07,Chevrolet,Captiva A/T / LV3 (7seats) 2025
+Chevrolet Captiva A/T / LV3 2025,1500000.0,-350000.0,1150000.0,2025-08-07,Chevrolet,Captiva A/T / LV3 2025
+Geely Starray A/T / Sport +( AUTO MOBILITY) 2025,1879000.0,-110000.0,1769000.0,2025-08-06,Geely,Starray A/T / Sport +( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport ( AUTO MOBILITY) 2025,1799000.0,-100000.0,1699000.0,2025-08-06,Geely,Starray A/T / Sport ( AUTO MOBILITY) 2025
+Geely Starray A/T / Premium ( AUTO MOBILITY) 2025,1699000.0,-100000.0,1599000.0,2025-08-06,Geely,Starray A/T / Premium ( AUTO MOBILITY) 2025
+Geely Starray A/T / Comfort ( AUTO MOBILITY) 2025,1599000.0,-100000.0,1499000.0,2025-08-06,Geely,Starray A/T / Comfort ( AUTO MOBILITY) 2025
+Changan Eado plus A/T / Flagship 2026,1250000.0,15000.0,1265000.0,2025-08-04,Changan,Eado plus A/T / Flagship 2026
+Changan Eado plus A/T / Premium 2026,1150000.0,15000.0,1165000.0,2025-08-04,Changan,Eado plus A/T / Premium 2026
+Changan Eado plus A/T / Elite 2026,1050000.0,15000.0,1065000.0,2025-08-04,Changan,Eado plus A/T / Elite 2026
+Changan UNI-V A/T / Flagship 2026,1300000.0,25000.0,1325000.0,2025-08-04,Changan,UNI-V A/T / Flagship 2026
+GAC GS3  Emzoom Automatic / RS Style 2025,1465000.0,-80000.0,1385000.0,2025-08-03,GAC,GS3  Emzoom Automatic / RS Style 2025
+GAC GS3  Emzoom Automatic / GL 2025,1355000.0,-100000.0,1255000.0,2025-08-03,GAC,GS3  Emzoom Automatic / GL 2025
+GAC GS3  Emzoom Automtic / GB 2025,1255000.0,-100000.0,1155000.0,2025-08-03,GAC,GS3  Emzoom Automtic / GB 2025
+GAC GS3  Emzoom Automtic /GS 2025,1195000.0,-100000.0,1095000.0,2025-08-03,GAC,GS3  Emzoom Automtic /GS 2025
+GAC Empow A/T / GE S-Style 2025,1425000.0,-40000.0,1385000.0,2025-08-03,GAC,Empow A/T / GE S-Style 2025
+GAC Empow A/T / GB 2025,1315000.0,-40000.0,1275000.0,2025-08-03,GAC,Empow A/T / GB 2025
+GAC Empow A/T / GS 2025,1165000.0,-40000.0,1125000.0,2025-08-03,GAC,Empow A/T / GS 2025
+Hyundai Tucson A/T / SHADOW 2025,1650000.0,-51000.0,1599000.0,2025-08-03,Hyundai,Tucson A/T / SHADOW 2025
+Hyundai Tucson A/T / N-Line 2025,2350000.0,-151000.0,2199000.0,2025-08-03,Hyundai,Tucson A/T / N-Line 2025
+Hyundai Tucson A/T / BLACK DIAMOND 2025,2250000.0,-151000.0,2099000.0,2025-08-03,Hyundai,Tucson A/T / BLACK DIAMOND 2025
+Hyundai Tucson A/T / NIGHT 2025,2100000.0,-101000.0,1999000.0,2025-08-03,Hyundai,Tucson A/T / NIGHT 2025
+Hyundai Tucson A/T / Redine 2025,1900000.0,-51000.0,1849000.0,2025-08-03,Hyundai,Tucson A/T / Redine 2025
+Hyundai Tucson A/T / Blaze 2025,1790000.0,-41000.0,1749000.0,2025-08-03,Hyundai,Tucson A/T / Blaze 2025
+Jetour X90 Plus A/T / Luxury 2025,1664000.0,-194000.0,1470000.0,2025-08-03,Jetour,X90 Plus A/T / Luxury 2025
+Jetour X70 Plus A/T / Luxury local 2025,1195000.0,-65000.0,1130000.0,2025-08-03,Jetour,X70 Plus A/T / Luxury local 2025
+Changan CS 35 Plus A/T / FLAGSHIP 2025,1200000.0,-50000.0,1150000.0,2025-08-03,Changan,CS 35 Plus A/T / FLAGSHIP 2025
+Changan CS 35 Plus A/T / PREMIUM 2025,1100000.0,-50000.0,1050000.0,2025-08-03,Changan,CS 35 Plus A/T / PREMIUM 2025
+Changan CS 35 Plus A/T / ELITE 2025,999000.0,-49000.0,950000.0,2025-08-03,Changan,CS 35 Plus A/T / ELITE 2025
+Chery Tiggo 8 Pro A/T / Flagship 2025,1690000.0,-215000.0,1475000.0,2025-08-03,Chery,Tiggo 8 Pro A/T / Flagship 2025
+Chery Tiggo 8 Pro A/T / Luxury 2025,1590000.0,-215000.0,1375000.0,2025-08-03,Chery,Tiggo 8 Pro A/T / Luxury 2025
+Chery Tiggo 7 pro A/T / Luxury 2025,1350000.0,-140000.0,1210000.0,2025-08-03,Chery,Tiggo 7 pro A/T / Luxury 2025
+Chery Tiggo 7 pro A/T / Comfort 2025,1250000.0,-140000.0,1110000.0,2025-08-03,Chery,Tiggo 7 pro A/T / Comfort 2025
+Bestune T55 A/T / PREMIUM PLUS 2025,1175000.0,-120000.0,1055000.0,2025-08-03,Bestune,T55 A/T / PREMIUM PLUS 2025
+Bestune B70S A/T / Limousine 2025,1375000.0,-100000.0,1275000.0,2025-08-03,Bestune,B70S A/T / Limousine 2025
+Bestune B70S A/T / Premium 2025,1355000.0,-100000.0,1255000.0,2025-08-03,Bestune,B70S A/T / Premium 2025
+Bestune T77 Pro A/T / Premium 2025,1385000.0,-110000.0,1275000.0,2025-08-03,Bestune,T77 Pro A/T / Premium 2025
+Chery Tiggo 8 Pro A/T / Flagship 2026,1700000.0,-225000.0,1475000.0,2025-08-03,Chery,Tiggo 8 Pro A/T / Flagship 2026
+Chery Tiggo 8 Pro A/T / Luxury 2026,1600000.0,-225000.0,1375000.0,2025-08-03,Chery,Tiggo 8 Pro A/T / Luxury 2026
+Chery Tiggo 7 pro A/T / Luxury 2026,1370000.0,-140000.0,1230000.0,2025-08-03,Chery,Tiggo 7 pro A/T / Luxury 2026
+Chery Tiggo 7 pro A/T / Comfort 2026,1270000.0,-140000.0,1130000.0,2025-08-03,Chery,Tiggo 7 pro A/T / Comfort 2026
+Chery Arrizo 5 AT / HIGHLINE 2026,755000.0,-20000.0,735000.0,2025-08-03,Chery,Arrizo 5 AT / HIGHLINE 2026
+Chery Arrizo 5 AT / BASELINE Leather 2026,725000.0,-20000.0,705000.0,2025-08-03,Chery,Arrizo 5 AT / BASELINE Leather 2026
+Chery Arrizo 5 Manual / Base Line  / Leather 2026,675000.0,-20000.0,655000.0,2025-08-03,Chery,Arrizo 5 Manual / Base Line  / Leather 2026
+Haval H6 HEV A/T / High Deluxe 2026,1795000.0,-105000.0,1690000.0,2025-07-16,Haval,H6 HEV A/T / High Deluxe 2026
+Haval H6 HEV A/T / High Deluxe 2025,1775000.0,-115000.0,1660000.0,2025-07-16,Haval,H6 HEV A/T / High Deluxe 2025
+Haval H6 A/T / Top Line 2025,1620000.0,-171000.0,1449000.0,2025-07-16,Haval,H6 A/T / Top Line 2025
+Haval H6 A/T / Deluxe SR 2025,1500000.0,-171000.0,1329000.0,2025-07-16,Haval,H6 A/T / Deluxe SR 2025
+Haval H6 A/T / Deluxe 2025,1470000.0,-171000.0,1299000.0,2025-07-16,Haval,H6 A/T / Deluxe 2025
+Haval H6 A/T / Standard 2025,1350000.0,-171000.0,1179000.0,2025-07-16,Haval,H6 A/T / Standard 2025
+Haval Jolion Pro A/T / High Deluxe 2025,1390000.0,-50000.0,1340000.0,2025-07-16,Haval,Jolion Pro A/T / High Deluxe 2025
+Haval Jolion A/T / High Deluxe 2025,1370000.0,-70000.0,1300000.0,2025-07-16,Haval,Jolion A/T / High Deluxe 2025
+Haval Jolion A/T / Deluxe SR 2025,1320000.0,-70000.0,1250000.0,2025-07-16,Haval,Jolion A/T / Deluxe SR 2025
+Haval Jolion A/T / Deluxe 2025,1240000.0,-70000.0,1170000.0,2025-07-16,Haval,Jolion A/T / Deluxe 2025
+Haval Jolion A/T / Standard 2025,1150000.0,-70000.0,1080000.0,2025-07-16,Haval,Jolion A/T / Standard 2025
+Chery Tiggo 7 A/T /  Baseline 2026,955000.0,40000.0,995000.0,2025-07-13,Chery,Tiggo 7 A/T /  Baseline 2026
+Jeep Grand Cherokee L Automtic 2025,5400000.0,200000.0,5600000.0,2025-07-09,Jeep,Grand Cherokee L Automtic 2025
+Subaru XV Crosstrek Automtic 2024,2450000.0,-150000.0,2300000.0,2025-07-07,Subaru,XV Crosstrek Automtic 2024
+Volkswagen Golf A/T / Life 2025,1850000.0,-100000.0,1750000.0,2025-07-06,Volkswagen,Golf A/T / Life 2025
+Volkswagen Touareg A/T / R-Line 2025,4250000.0,200000.0,4450000.0,2025-07-06,Volkswagen,Touareg A/T / R-Line 2025
+Volkswagen Tiguan A/T / R-Line 2025,2650000.0,-100000.0,2550000.0,2025-07-06,Volkswagen,Tiguan A/T / R-Line 2025
+Chery Tiggo 8 A/T / Luxury 7 Seats 2026,1320000.0,-70000.0,1250000.0,2025-07-02,Chery,Tiggo 8 A/T / Luxury 7 Seats 2026
+Chery Tiggo 8 A/T / Comfort 7 Seats 2026,1195000.0,-70000.0,1125000.0,2025-07-02,Chery,Tiggo 8 A/T / Comfort 7 Seats 2026
+Chery Tiggo 8 A/T / Luxury 2026,1265000.0,-70000.0,1195000.0,2025-07-02,Chery,Tiggo 8 A/T / Luxury 2026
+Chery Tiggo 7 A/T / Highline 2026,1110000.0,-30000.0,1080000.0,2025-07-02,Chery,Tiggo 7 A/T / Highline 2026
+Chery Tiggo 7 A/T /  Baseline 2026,1025000.0,-70000.0,955000.0,2025-07-02,Chery,Tiggo 7 A/T /  Baseline 2026
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2026,1080000.0,-25000.0,1055000.0,2025-07-02,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2026
+Chery Tiggo 4 Pro A/T / Luxury 2026,1005000.0,-25000.0,980000.0,2025-07-02,Chery,Tiggo 4 Pro A/T / Luxury 2026
+Chery Tiggo 4 Pro A/T / Comfort 2026,925000.0,-25000.0,900000.0,2025-07-02,Chery,Tiggo 4 Pro A/T / Comfort 2026
+Nissan Sunny A/T / Super Saloon 2026,795000.0,15000.0,810000.0,2025-07-01,Nissan,Sunny A/T / Super Saloon 2026
+Nissan Sunny A/T / plus 2026,765000.0,15000.0,780000.0,2025-07-01,Nissan,Sunny A/T / plus 2026
+Nissan Sunny A/T / Baseline 2026,710000.0,25000.0,735000.0,2025-07-01,Nissan,Sunny A/T / Baseline 2026
+Nissan Sentra A/T / Highline 2026,999000.0,-111000.0,888000.0,2025-07-01,Nissan,Sentra A/T / Highline 2026
+Jac JS4 A/T / Ultimat 2025,1069900.0,-71900.0,998000.0,2025-06-29,Jac,JS4 A/T / Ultimat 2025
+Jac J7 A/T / Ultimate 2025,1069900.0,-71900.0,998000.0,2025-06-29,Jac,J7 A/T / Ultimate 2025
+KGM Torres Automtic /adventure plus 4*4 2025,2190000.0,-100000.0,2090000.0,2025-06-17,KGM,Torres Automtic /adventure plus 4*4 2025
+KGM Torres A/T / Luxury 2025,2090000.0,-100000.0,1990000.0,2025-06-17,KGM,Torres A/T / Luxury 2025
+KGM Torres A/T / Premium 2025,1925000.0,-76000.0,1849000.0,2025-06-17,KGM,Torres A/T / Premium 2025
+KGM Torres Automtic /advanced 2025,1799000.0,-100000.0,1699000.0,2025-06-17,KGM,Torres Automtic /advanced 2025
+KGM Torres Automtic /comfort 2025,1675000.0,-100000.0,1575000.0,2025-06-17,KGM,Torres Automtic /comfort 2025
+Hyundai Santa Fe A/T / 4w 2025,3900000.0,-250000.0,3650000.0,2025-06-12,Hyundai,Santa Fe A/T / 4w 2025
+Hyundai Santa Fe Automtic 2025,3350000.0,-200000.0,3150000.0,2025-06-12,Hyundai,Santa Fe Automtic 2025
+Vgv U70 Pro A/T / Top Line 2024,1059900.0,-10000.0,1049900.0,2025-06-04,Vgv,U70 Pro A/T / Top Line 2024
+Nissan Sunny A/T / Baseline 2026,695000.0,15000.0,710000.0,2025-06-02,Nissan,Sunny A/T / Baseline 2026
+Volvo EX30 A/T /  Twin Ultra Performance 2025,2299000.0,61000.0,2360000.0,2025-05-28,Volvo,EX30 A/T /  Twin Ultra Performance 2025
+Volvo EX30 A/T / Twin Plus Performance 2025,2195000.0,75000.0,2270000.0,2025-05-28,Volvo,EX30 A/T / Twin Plus Performance 2025
+Volvo EX30 A/T / Single Ultra Extended Range 2025,2150000.0,80000.0,2230000.0,2025-05-28,Volvo,EX30 A/T / Single Ultra Extended Range 2025
+Volvo EX30 A/T / Single PLUS Extended Range 2025,1995000.0,35000.0,2030000.0,2025-05-28,Volvo,EX30 A/T / Single PLUS Extended Range 2025
+Chevrolet Optra A/T / Lt 2026,770000.0,20000.0,790000.0,2025-05-26,Chevrolet,Optra A/T / Lt 2026
+Chevrolet Optra A/T / Ls 2026,745000.0,20000.0,765000.0,2025-05-26,Chevrolet,Optra A/T / Ls 2026
+Hyundai Elantra AD A/T / Top Line 2025,1175000.0,-5000.0,1170000.0,2025-05-22,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,1070000.0,-5000.0,1065000.0,2025-05-22,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,990000.0,-5000.0,985000.0,2025-05-22,Hyundai,Elantra AD A/T / Smart 2025
+Jetour X70 Plus A/T / Luxury 2025,1379000.0,55000.0,1434000.0,2025-05-21,Jetour,X70 Plus A/T / Luxury 2025
+Jetour Dashing A/T / Luxury 2025,1689000.0,-50000.0,1639000.0,2025-05-21,Jetour,Dashing A/T / Luxury 2025
+Jetour Dashing A/T / Luxury 2025,1419000.0,20000.0,1439000.0,2025-05-21,Jetour,Dashing A/T / Luxury 2025
+Jetour Dashing A/T / Luxury 2025,1519000.0,-100000.0,1419000.0,2025-05-21,Jetour,Dashing A/T / Luxury 2025
+Jetour X70 Plus A/T / Luxury 2025,1479000.0,-100000.0,1379000.0,2025-05-21,Jetour,X70 Plus A/T / Luxury 2025
+Jetour X90 Plus A/T / Luxury 2025,1764000.0,-100000.0,1664000.0,2025-05-21,Jetour,X90 Plus A/T / Luxury 2025
+Exeed VX A/T / flagship 2025,3380000.0,-400000.0,2980000.0,2025-05-21,Exeed,VX A/T / flagship 2025
+Exeed VX A/T / Luxury 2025,2980000.0,-300000.0,2680000.0,2025-05-21,Exeed,VX A/T / Luxury 2025
+Exeed RX A/T / Flagship 2025,2780000.0,-400000.0,2380000.0,2025-05-21,Exeed,RX A/T / Flagship 2025
+Exeed RX Automtic 2025,2380000.0,-400000.0,1980000.0,2025-05-21,Exeed,RX Automtic 2025
+Hyundai Accent RB A/T / GL 2025,795000.0,-5000.0,790000.0,2025-05-21,Hyundai,Accent RB A/T / GL 2025
+Hyundai Accent RB A/T / SR 2025,825000.0,-5000.0,820000.0,2025-05-21,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / DAB ABS 2025,870000.0,-5000.0,865000.0,2025-05-21,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,890000.0,-5000.0,885000.0,2025-05-21,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / Highline 2025,925000.0,-5000.0,920000.0,2025-05-21,Hyundai,Accent RB A/T / Highline 2025
+Haval H6 A/T / Top Line 2025,1580000.0,40000.0,1620000.0,2025-05-18,Haval,H6 A/T / Top Line 2025
+Haval H6 A/T / Deluxe SR 2025,1460000.0,40000.0,1500000.0,2025-05-18,Haval,H6 A/T / Deluxe SR 2025
+Haval H6 A/T / Deluxe 2025,1430000.0,40000.0,1470000.0,2025-05-18,Haval,H6 A/T / Deluxe 2025
+Haval H6 A/T / Standard 2025,1310000.0,40000.0,1350000.0,2025-05-18,Haval,H6 A/T / Standard 2025
+Haval H6 HEV A/T / High Deluxe 2025,1795000.0,-20000.0,1775000.0,2025-05-18,Haval,H6 HEV A/T / High Deluxe 2025
+Skoda Kodiaq A/T / Sportline 2025,3500000.0,-201000.0,3299000.0,2025-05-18,Skoda,Kodiaq A/T / Sportline 2025
+Skoda Kodiaq A/T / Suite 2025,3300000.0,-201000.0,3099000.0,2025-05-18,Skoda,Kodiaq A/T / Suite 2025
+Skoda Kodiaq A/T / Lounge 2025,3000000.0,-201000.0,2799000.0,2025-05-18,Skoda,Kodiaq A/T / Lounge 2025
+Skoda Kodiaq A/T / Loft 2025,2700000.0,-151000.0,2549000.0,2025-05-18,Skoda,Kodiaq A/T / Loft 2025
+Skoda Octavia A8 A/T / Suite 2025,2400000.0,-201000.0,2199000.0,2025-05-18,Skoda,Octavia A8 A/T / Suite 2025
+Skoda Octavia A8 A/T / Lounge 2025,2200000.0,-201000.0,1999000.0,2025-05-18,Skoda,Octavia A8 A/T / Lounge 2025
+Skoda Octavia A8 A/T / Loft 2025,2000000.0,-201000.0,1799000.0,2025-05-18,Skoda,Octavia A8 A/T / Loft 2025
+Renault Megane A/T / Signature 2025,1510000.0,-160000.0,1350000.0,2025-05-15,Renault,Megane A/T / Signature 2025
+Renault Megane A/T / Dynamic 2025,1400000.0,-150000.0,1250000.0,2025-05-15,Renault,Megane A/T / Dynamic 2025
+Renault Megane A/T / Signature Turbo 2025,1610000.0,-160000.0,1450000.0,2025-05-15,Renault,Megane A/T / Signature Turbo 2025
+Seat Ateca A/T / FR 2025,2025000.0,-76000.0,1949000.0,2025-05-13,Seat,Ateca A/T / FR 2025
+Seat Ateca A/T / Style Plus 2025,1825000.0,-76000.0,1749000.0,2025-05-13,Seat,Ateca A/T / Style Plus 2025
+Seat Leon A/T / Advance 2025,1625000.0,-126000.0,1499000.0,2025-05-13,Seat,Leon A/T / Advance 2025
+Seat Arona A/T / Experience 2025,1370000.0,-51000.0,1319000.0,2025-05-13,Seat,Arona A/T / Experience 2025
+Seat Ibiza A/T / Black Series 2025,1370000.0,-31000.0,1339000.0,2025-05-13,Seat,Ibiza A/T / Black Series 2025
+Seat Ibiza A/T / FR 2025,1320000.0,-51000.0,1269000.0,2025-05-13,Seat,Ibiza A/T / FR 2025
+Seat Ibiza A/T / Reference 2025,1120000.0,-51000.0,1069000.0,2025-05-13,Seat,Ibiza A/T / Reference 2025
+Cupra Leon Automatic 2025,1899000.0,-100000.0,1799000.0,2025-05-13,Cupra,Leon Automatic 2025
+Citroën C5 Aircross A/T / FEEL / with out sunroof 2025,1865000.0,-195000.0,1670000.0,2025-05-13,Citroën,C5 Aircross A/T / FEEL / with out sunroof 2025
+Hyundai Tucson A/T / N-Line 2025,2425000.0,-75000.0,2350000.0,2025-05-04,Hyundai,Tucson A/T / N-Line 2025
+Baic X55 A/T / Premium 2025,1414900.0,100000.0,1514900.0,2025-04-28,Baic,X55 A/T / Premium 2025
+Baic X55 A/T / Top Line 2025,1294900.0,95000.0,1389900.0,2025-04-28,Baic,X55 A/T / Top Line 2025
+Baic X55 A/T / Highline 2025,1194900.0,95000.0,1289900.0,2025-04-28,Baic,X55 A/T / Highline 2025
+Baic U5 plus A/T / Top Line 2025,899900.0,75000.0,974900.0,2025-04-28,Baic,U5 plus A/T / Top Line 2025
+Baic U5 plus A/T / Highline 2025,799900.0,75000.0,874900.0,2025-04-28,Baic,U5 plus A/T / Highline 2025
+Cupra Terramar AT / CONTROL 2025,2450000.0,89000.0,2539000.0,2025-04-26,Cupra,Terramar AT / CONTROL 2025
+Opel Grandland A/T / Top Line+ 2025,2099990.0,100000.0,2199990.0,2025-04-24,Opel,Grandland A/T / Top Line+ 2025
+Opel Grandland A/T / Top Line 2025,1949990.0,100000.0,2049990.0,2025-04-24,Opel,Grandland A/T / Top Line 2025
+Opel Grandland A/T / Highline 2025,1849990.0,100000.0,1949990.0,2025-04-24,Opel,Grandland A/T / Highline 2025
+Geely Cool Ray A/T / Sport (AUTO MOBILITY) Local simplified 2025,1270000.0,29000.0,1299000.0,2025-04-22,Geely,Cool Ray A/T / Sport (AUTO MOBILITY) Local simplified 2025
+Geely Cool Ray A/T / Premium ( AUTO MOBILITY) Local simplified 2025,1170000.0,29000.0,1199000.0,2025-04-22,Geely,Cool Ray A/T / Premium ( AUTO MOBILITY) Local simplified 2025
+Geely Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025,1070000.0,29000.0,1099000.0,2025-04-22,Geely,Cool Ray A/T / Comfort ( AUTO MOBILITY)Local simplified 2025
+Geely Emgrand Automtic / Luxury /  ( AUTO MOBILITY)Local simplified 2025,970000.0,29000.0,999000.0,2025-04-22,Geely,Emgrand Automtic / Luxury /  ( AUTO MOBILITY)Local simplified 2025
+Geely Emgrand Automatic / Comfort /  ( AUTO MOBILITY)Local simplified 2025,850000.0,29000.0,879000.0,2025-04-22,Geely,Emgrand Automatic / Comfort /  ( AUTO MOBILITY)Local simplified 2025
+Geely GX3 Pro A/T / Premium (AUTO MOBILITY) 2025,925000.0,-75100.0,849900.0,2025-04-22,Geely,GX3 Pro A/T / Premium (AUTO MOBILITY) 2025
+Geely Starray A/T / Sport +( AUTO MOBILITY) 2025,2029000.0,-150000.0,1879000.0,2025-04-22,Geely,Starray A/T / Sport +( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport ( AUTO MOBILITY) 2025,1949000.0,-150000.0,1799000.0,2025-04-22,Geely,Starray A/T / Sport ( AUTO MOBILITY) 2025
+Geely Starray A/T / Premium ( AUTO MOBILITY) 2025,1849000.0,-150000.0,1699000.0,2025-04-22,Geely,Starray A/T / Premium ( AUTO MOBILITY) 2025
+Geely Starray A/T / Comfort ( AUTO MOBILITY) 2025,1749000.0,-150000.0,1599000.0,2025-04-22,Geely,Starray A/T / Comfort ( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport + (Abou Ghaly) 2025,2049000.0,-170000.0,1879000.0,2025-04-22,Geely,Starray A/T / Sport + (Abou Ghaly) 2025
+Geely Starray A/T / Sport (Abou Ghaly) 2025,1959000.0,-160000.0,1799000.0,2025-04-22,Geely,Starray A/T / Sport (Abou Ghaly) 2025
+Geely Starray A/T / Premium (Abou Ghaly) 2025,1895000.0,-196000.0,1699000.0,2025-04-22,Geely,Starray A/T / Premium (Abou Ghaly) 2025
+Geely Starray A/T / Comfort / (Abou Ghaly) 2025,1759000.0,-160000.0,1599000.0,2025-04-22,Geely,Starray A/T / Comfort / (Abou Ghaly) 2025
+Geely Okavango A/T /Premium / (Abou Ghaly) 2025,1769900.0,-130900.0,1639000.0,2025-04-22,Geely,Okavango A/T /Premium / (Abou Ghaly) 2025
+Geely GX3 Pro A/T / Premium (Abou Ghaly) 2025,925000.0,-75100.0,849900.0,2025-04-22,Geely,GX3 Pro A/T / Premium (Abou Ghaly) 2025
+Geely Cool Ray A/T / sport (Abou Ghaly) 2025,1270000.0,29000.0,1299000.0,2025-04-22,Geely,Cool Ray A/T / sport (Abou Ghaly) 2025
+Geely Cool Ray A/T / Premium (Abou Ghaly) 2025,1170000.0,29000.0,1199000.0,2025-04-22,Geely,Cool Ray A/T / Premium (Abou Ghaly) 2025
+Geely Cool Ray A/T / Comfort / (Abou Ghaly) 2025,1070000.0,29000.0,1099000.0,2025-04-22,Geely,Cool Ray A/T / Comfort / (Abou Ghaly) 2025
+Geely Emgrand A/T / Luxury / (Abou Ghaly) 2025,970000.0,29000.0,999000.0,2025-04-22,Geely,Emgrand A/T / Luxury / (Abou Ghaly) 2025
+Geely Emgrand A/T / Comfort / (Abou Ghaly) 2025,850000.0,29000.0,879000.0,2025-04-22,Geely,Emgrand A/T / Comfort / (Abou Ghaly) 2025
+Haval H6 A/T / Top Line 2025,1620000.0,-40000.0,1580000.0,2025-04-16,Haval,H6 A/T / Top Line 2025
+Haval H6 A/T / Deluxe SR 2025,1500000.0,-40000.0,1460000.0,2025-04-16,Haval,H6 A/T / Deluxe SR 2025
+Haval H6 A/T / Deluxe 2025,1470000.0,-40000.0,1430000.0,2025-04-16,Haval,H6 A/T / Deluxe 2025
+Haval H6 A/T / Standard 2025,1350000.0,-40000.0,1310000.0,2025-04-16,Haval,H6 A/T / Standard 2025
+Haval Jolion Pro A/T / High Deluxe 2025,1420000.0,-30000.0,1390000.0,2025-04-16,Haval,Jolion Pro A/T / High Deluxe 2025
+Fiat Tipo manual / Entry‏ Plus‏ 2025,769900.0,-25000.0,744900.0,2025-04-16,Fiat,Tipo manual / Entry‏ Plus‏ 2025
+Chery EQ7 Automtic 2025,1790000.0,-90000.0,1700000.0,2025-04-15,Chery,EQ7 Automtic 2025
+KGM Torres Automtic /adventure plus 4*4 2025,2130000.0,60000.0,2190000.0,2025-04-15,KGM,Torres Automtic /adventure plus 4*4 2025
+KGM Torres A/T / Luxury 2025,2050000.0,40000.0,2090000.0,2025-04-15,KGM,Torres A/T / Luxury 2025
+KGM Torres Automtic /advanced 2025,1800000.0,-1000.0,1799000.0,2025-04-15,KGM,Torres Automtic /advanced 2025
+KGM Torres Automtic /comfort 2025,1700000.0,-25000.0,1675000.0,2025-04-15,KGM,Torres Automtic /comfort 2025
+Vgv U70P Plus A/T / Highline 2025,1049900.0,20000.0,1069900.0,2025-04-14,Vgv,U70P Plus A/T / Highline 2025
+Proton Saga A/T / Imported 2025,629900.0,20000.0,649900.0,2025-04-13,Proton,Saga A/T / Imported 2025
+Subaru XV Crosstrek Automtic 2024,2250000.0,200000.0,2450000.0,2025-04-08,Subaru,XV Crosstrek Automtic 2024
+Hyundai Ioniq 5 A/T / EXTREME AWD 2025,3580000.0,-230000.0,3350000.0,2025-04-07,Hyundai,Ioniq 5 A/T / EXTREME AWD 2025
+Hyundai Ioniq 5 A/T / EXTREME 2025,3350000.0,-200000.0,3150000.0,2025-04-07,Hyundai,Ioniq 5 A/T / EXTREME 2025
+Hyundai Ioniq 5 A/T /  CONNECT PLUS 2025,2850000.0,-100000.0,2750000.0,2025-04-07,Hyundai,Ioniq 5 A/T /  CONNECT PLUS 2025
+Hyundai Ioniq 6 A/T / EXTREME AWD 2025,3350000.0,-200000.0,3150000.0,2025-04-07,Hyundai,Ioniq 6 A/T / EXTREME AWD 2025
+Hyundai Ioniq 6 A/T / EXTREME RWD 2025,3150000.0,-200000.0,2950000.0,2025-04-07,Hyundai,Ioniq 6 A/T / EXTREME RWD 2025
+Hyundai Ioniq 6 A/T / CONNECT PLUS 2025,2850000.0,-150000.0,2700000.0,2025-04-07,Hyundai,Ioniq 6 A/T / CONNECT PLUS 2025
+Chevrolet Optra A/T / Lt 2025,749900.0,20100.0,770000.0,2025-04-06,Chevrolet,Optra A/T / Lt 2025
+Chevrolet Optra A/T / Ls 2025,724900.0,20100.0,745000.0,2025-04-06,Chevrolet,Optra A/T / Ls 2025
+Peugeot 408 A/T / GT 2025,2399990.0,50000.0,2449990.0,2025-03-24,Peugeot,408 A/T / GT 2025
+Peugeot 2008 A/T / GT 2025,1799990.0,-150000.0,1649990.0,2025-03-24,Peugeot,2008 A/T / GT 2025
+Peugeot 2008 A/T / ALLURE 2025,1659990.0,-160000.0,1499990.0,2025-03-24,Peugeot,2008 A/T / ALLURE 2025
+Vgv U70 Pro A/T / Top Line 2024,1099900.0,-40000.0,1059900.0,2025-03-20,Vgv,U70 Pro A/T / Top Line 2024
+Vgv U70P Plus A/T / Highline 2025,1114900.0,-65000.0,1049900.0,2025-03-20,Vgv,U70P Plus A/T / Highline 2025
+MG MG 4 A/T / Luxury 2025,1650000.0,-250000.0,1400000.0,2025-03-19,MG,MG 4 A/T / Luxury 2025
+MG MG 4 AT / Standard 2025,1350000.0,-150000.0,1200000.0,2025-03-19,MG,MG 4 AT / Standard 2025
+Kia Sportage A/T / Top Line 2025,2324900.0,-175000.0,2149900.0,2025-03-09,Kia,Sportage A/T / Top Line 2025
+Kia Sportage A/T / Highline 2025,2199900.0,-175000.0,2024900.0,2025-03-09,Kia,Sportage A/T / Highline 2025
+Kia Sportage A/T /  GT-Line 2025,2449900.0,-175000.0,2274900.0,2025-03-09,Kia,Sportage A/T /  GT-Line 2025
+Kia Sportage A/T / EX 2025,2069900.0,-150000.0,1919900.0,2025-03-09,Kia,Sportage A/T / EX 2025
+Kia Sportage A/T / LX 2025,1949900.0,-150000.0,1799900.0,2025-03-09,Kia,Sportage A/T / LX 2025
+Kia Xceed A/T / Top Line / Panorama 2025,1649000.0,-49100.0,1599900.0,2025-03-09,Kia,Xceed A/T / Top Line / Panorama 2025
+Kia Xceed A/T / Highline / Panorama 2025,1549000.0,-50000.0,1499000.0,2025-03-09,Kia,Xceed A/T / Highline / Panorama 2025
+Kia Xceed A/T / Highline 2025,1449000.0,-50000.0,1399000.0,2025-03-09,Kia,Xceed A/T / Highline 2025
+Baic X55 A/T / Premium 2025,1514900.0,-100000.0,1414900.0,2025-03-06,Baic,X55 A/T / Premium 2025
+Baic X55 A/T / Top Line 2025,1389900.0,-95000.0,1294900.0,2025-03-06,Baic,X55 A/T / Top Line 2025
+Baic X55 A/T / Highline 2025,1289900.0,-95000.0,1194900.0,2025-03-06,Baic,X55 A/T / Highline 2025
+Baic U5 plus A/T / Top Line 2025,974900.0,-75000.0,899900.0,2025-03-06,Baic,U5 plus A/T / Top Line 2025
+Baic U5 plus A/T / Highline 2025,874900.0,-75000.0,799900.0,2025-03-06,Baic,U5 plus A/T / Highline 2025
+Xpeng G9 A/T / Performance 2025,3500000.0,200000.0,3700000.0,2025-03-06,Xpeng,G9 A/T / Performance 2025
+Xpeng G9 A/T /  Long Range + Nappa 2025,3100000.0,250000.0,3350000.0,2025-03-06,Xpeng,G9 A/T /  Long Range + Nappa 2025
+Xpeng G9 A/T / Long Range 2025,3000000.0,250000.0,3250000.0,2025-03-06,Xpeng,G9 A/T / Long Range 2025
+Xpeng P7 A/T / Long Range + Nappa 2025,2450000.0,50000.0,2500000.0,2025-03-06,Xpeng,P7 A/T / Long Range + Nappa 2025
+Xpeng P7 A/T /  Long Range 2025,2300000.0,50000.0,2350000.0,2025-03-06,Xpeng,P7 A/T /  Long Range 2025
+Renault Taliant A/T / Techno 2025,899000.0,-100000.0,799000.0,2025-03-05,Renault,Taliant A/T / Techno 2025
+Renault Taliant A/T / Evolution 2025,799000.0,-100000.0,699000.0,2025-03-05,Renault,Taliant A/T / Evolution 2025
+Fiat 500 X A/T / Cross 2025,1090000.0,50000.0,1140000.0,2025-03-03,Fiat,500 X A/T / Cross 2025
+Subaru XV Crosstrek Automtic 2024,2450000.0,-200000.0,2250000.0,2025-03-02,Subaru,XV Crosstrek Automtic 2024
+Hyundai Tucson A/T / N-Line 2025,2575000.0,-150000.0,2425000.0,2025-03-02,Hyundai,Tucson A/T / N-Line 2025
+Hyundai Tucson A/T / BLACK DIAMOND 2025,2400000.0,-150000.0,2250000.0,2025-03-02,Hyundai,Tucson A/T / BLACK DIAMOND 2025
+Hyundai Tucson A/T / NIGHT 2025,2230000.0,-130000.0,2100000.0,2025-03-02,Hyundai,Tucson A/T / NIGHT 2025
+Hyundai Tucson A/T / Redine 2025,2000000.0,-100000.0,1900000.0,2025-03-02,Hyundai,Tucson A/T / Redine 2025
+Hyundai Tucson A/T / Blaze 2025,1890000.0,-100000.0,1790000.0,2025-03-02,Hyundai,Tucson A/T / Blaze 2025
+Chery Tiggo 8 Pro A/T / Flagship 2025,1790000.0,-100000.0,1690000.0,2025-03-02,Chery,Tiggo 8 Pro A/T / Flagship 2025
+Chery Tiggo 8 Pro A/T / Luxury 2025,1690000.0,-100000.0,1590000.0,2025-03-02,Chery,Tiggo 8 Pro A/T / Luxury 2025
+Chery Tiggo 7 pro A/T / Luxury 2025,1460000.0,-110000.0,1350000.0,2025-03-02,Chery,Tiggo 7 pro A/T / Luxury 2025
+Chery Tiggo 7 pro A/T / Comfort 2025,1350000.0,-100000.0,1250000.0,2025-03-02,Chery,Tiggo 7 pro A/T / Comfort 2025
+Citroën C5 Aircross A/T / SHINE 2025,2060000.0,-240000.0,1820000.0,2025-02-27,Citroën,C5 Aircross A/T / SHINE 2025
+Citroën C5 Aircross A/T / Feel with sunroof 2025,1940000.0,-240000.0,1700000.0,2025-02-27,Citroën,C5 Aircross A/T / Feel with sunroof 2025
+Changan UNI-T A/T / Flagship 2025,1600000.0,-50000.0,1550000.0,2025-02-23,Changan,UNI-T A/T / Flagship 2025
+Changan UNI-T A/T / Premium 2025,1495000.0,-45000.0,1450000.0,2025-02-23,Changan,UNI-T A/T / Premium 2025
+Changan CS55 Plus A/T / Flagship 2025,1475000.0,-65000.0,1410000.0,2025-02-23,Changan,CS55 Plus A/T / Flagship 2025
+Changan CS55 Plus A/T / Premium 2025,1405000.0,-65000.0,1340000.0,2025-02-23,Changan,CS55 Plus A/T / Premium 2025
+Changan CS55 Plus A/T / Elite 2025,1290000.0,-55000.0,1235000.0,2025-02-23,Changan,CS55 Plus A/T / Elite 2025
+Changan CS 35 Plus A/T / FLAGSHIP 2025,1275000.0,-75000.0,1200000.0,2025-02-23,Changan,CS 35 Plus A/T / FLAGSHIP 2025
+Changan CS 35 Plus A/T / PREMIUM 2025,1180000.0,-80000.0,1100000.0,2025-02-23,Changan,CS 35 Plus A/T / PREMIUM 2025
+Changan CS 35 Plus A/T / ELITE 2025,1100000.0,-101000.0,999000.0,2025-02-23,Changan,CS 35 Plus A/T / ELITE 2025
+Toyota Corolla A/T / Elegance 2025,1750000.0,-100000.0,1650000.0,2025-02-12,Toyota,Corolla A/T / Elegance 2025
+Toyota Corolla Automatic /  SMART /  Sun Roof 2025,1700000.0,-100000.0,1600000.0,2025-02-12,Toyota,Corolla Automatic /  SMART /  Sun Roof 2025
+Toyota Corolla Automtic / SMART 2025,1600000.0,-100000.0,1500000.0,2025-02-12,Toyota,Corolla Automtic / SMART 2025
+Toyota Corolla Automatic / Comfort 2025,1490000.0,-90000.0,1400000.0,2025-02-12,Toyota,Corolla Automatic / Comfort 2025
+Toyota Corolla Automatic / Active 2025,1400000.0,-100000.0,1300000.0,2025-02-12,Toyota,Corolla Automatic / Active 2025
+Bestune B70 A/T / Premium 2024,1445000.0,-50000.0,1395000.0,2025-02-06,Bestune,B70 A/T / Premium 2024
+Bestune B70 A/T / Deluxe 2024,1395000.0,-20000.0,1375000.0,2025-02-06,Bestune,B70 A/T / Deluxe 2024
+Bestune B70S A/T / Limousine 2025,1495000.0,-120000.0,1375000.0,2025-02-06,Bestune,B70S A/T / Limousine 2025
+Bestune B70S A/T / Premium 2025,1455000.0,-100000.0,1355000.0,2025-02-06,Bestune,B70S A/T / Premium 2025
+Bestune T77 Pro A/T / Premium 2025,1435000.0,-50000.0,1385000.0,2025-02-06,Bestune,T77 Pro A/T / Premium 2025
+Seat Ateca A/T / FR 2025,1999000.0,26000.0,2025000.0,2025-02-02,Seat,Ateca A/T / FR 2025
+Seat Ateca A/T / Style Plus 2025,1799000.0,26000.0,1825000.0,2025-02-02,Seat,Ateca A/T / Style Plus 2025
+Seat Leon A/T / Advance 2025,1599000.0,26000.0,1625000.0,2025-02-02,Seat,Leon A/T / Advance 2025
+Seat Arona A/T / Experience 2025,1349000.0,21000.0,1370000.0,2025-02-02,Seat,Arona A/T / Experience 2025
+Seat Ibiza A/T / Black Series 2025,1349000.0,21000.0,1370000.0,2025-02-02,Seat,Ibiza A/T / Black Series 2025
+Seat Ibiza A/T / FR 2025,1299000.0,21000.0,1320000.0,2025-02-02,Seat,Ibiza A/T / FR 2025
+Skoda Kodiaq A/T / Sportline 2025,3400000.0,100000.0,3500000.0,2025-02-02,Skoda,Kodiaq A/T / Sportline 2025
+Skoda Kodiaq A/T / Suite 2025,3200000.0,100000.0,3300000.0,2025-02-02,Skoda,Kodiaq A/T / Suite 2025
+Skoda Kodiaq A/T / Lounge 2025,2950000.0,50000.0,3000000.0,2025-02-02,Skoda,Kodiaq A/T / Lounge 2025
+Fiat Tipo manual / Entry‏ 2025,769900.0,10100.0,780000.0,2025-01-19,Fiat,Tipo manual / Entry‏ 2025
+Jetour T2 Automtic 2025,1880000.0,15000.0,1895000.0,2025-01-15,Jetour,T2 Automtic 2025
+Skoda Kodiaq A/T / Sportline 2025,3250000.0,150000.0,3400000.0,2025-01-15,Skoda,Kodiaq A/T / Sportline 2025
+Skoda Kodiaq A/T / Suite 2025,3050000.0,150000.0,3200000.0,2025-01-15,Skoda,Kodiaq A/T / Suite 2025
+Skoda Kodiaq A/T / Lounge 2025,2850000.0,100000.0,2950000.0,2025-01-15,Skoda,Kodiaq A/T / Lounge 2025
+Skoda Kodiaq A/T / Loft 2025,2650000.0,50000.0,2700000.0,2025-01-15,Skoda,Kodiaq A/T / Loft 2025
+Kia Sportage A/T /  GT-Line 2025,2389900.0,60000.0,2449900.0,2025-01-09,Kia,Sportage A/T /  GT-Line 2025
+Kia Sportage A/T / Top Line 2025,2259900.0,65000.0,2324900.0,2025-01-09,Kia,Sportage A/T / Top Line 2025
+Kia Sportage A/T / Highline 2025,2149900.0,50000.0,2199900.0,2025-01-09,Kia,Sportage A/T / Highline 2025
+Kia Sportage A/T / EX 2025,2019900.0,50000.0,2069900.0,2025-01-09,Kia,Sportage A/T / EX 2025
+Kia Sportage A/T / LX 2025,1889900.0,60000.0,1949900.0,2025-01-09,Kia,Sportage A/T / LX 2025
+MG 7 Automtic /luxury 2025,1600000.0,64990.0,1664990.0,2025-01-06,MG,7 Automtic /luxury 2025
+MG ZS A/T / Luxury 2025,1080000.0,20000.0,1100000.0,2025-01-06,MG,ZS A/T / Luxury 2025
+MG ZS Automatic / Comfort / ACC 2025,1050000.0,25000.0,1075000.0,2025-01-06,MG,ZS Automatic / Comfort / ACC 2025
+MG ZS Automatic / Comfort 2025,1030000.0,20000.0,1050000.0,2025-01-06,MG,ZS Automatic / Comfort 2025
+MG RX5 Plus A/T / Luxury 2025,1540000.0,10000.0,1550000.0,2025-01-06,MG,RX5 Plus A/T / Luxury 2025
+MG RX5 Plus A/T / Comfort 2025,1490000.0,10000.0,1500000.0,2025-01-06,MG,RX5 Plus A/T / Comfort 2025
+MG 6 A/T / LUX / Red Interior 2025,1270000.0,30000.0,1300000.0,2025-01-06,MG,6 A/T / LUX / Red Interior 2025
+MG 6 A/T / LUX / Black interior 2025,1250000.0,30000.0,1280000.0,2025-01-06,MG,6 A/T / LUX / Black interior 2025
+Byd F3 Automtic 2025,710000.0,20000.0,730000.0,2025-01-05,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,630000.0,20000.0,650000.0,2025-01-05,Byd,F3 Manual 2025
+Audi Q7 A/T / S Line 2025,1.0,5499999.0,5500000.0,2025-01-05,Audi,Q7 A/T / S Line 2025
+Haval Jolion A/T / High Deluxe 2025,1430000.0,-60000.0,1370000.0,2025-01-02,Haval,Jolion A/T / High Deluxe 2025
+Haval Jolion A/T / Deluxe SR 2025,1360000.0,-40000.0,1320000.0,2025-01-02,Haval,Jolion A/T / Deluxe SR 2025
+Haval Jolion A/T / Deluxe 2025,1280000.0,-40000.0,1240000.0,2025-01-02,Haval,Jolion A/T / Deluxe 2025
+Haval Jolion A/T / Standard 2025,1200000.0,-50000.0,1150000.0,2025-01-02,Haval,Jolion A/T / Standard 2025
+Haval H6 A/T / Top Line 2025,1680000.0,-60000.0,1620000.0,2025-01-02,Haval,H6 A/T / Top Line 2025
+Haval H6 A/T / Deluxe SR 2025,1550000.0,-50000.0,1500000.0,2025-01-02,Haval,H6 A/T / Deluxe SR 2025
+Haval H6 A/T / Deluxe 2025,1520000.0,-50000.0,1470000.0,2025-01-02,Haval,H6 A/T / Deluxe 2025
+Haval H6 A/T / Standard 2025,1400000.0,-50000.0,1350000.0,2025-01-02,Haval,H6 A/T / Standard 2025
+Haval Jolion Pro A/T / High Deluxe 2025,1480000.0,-60000.0,1420000.0,2025-01-02,Haval,Jolion Pro A/T / High Deluxe 2025
+Chery Tiggo 8 A/T / Luxury 7 Seats 2025,1280000.0,25000.0,1305000.0,2025-01-02,Chery,Tiggo 8 A/T / Luxury 7 Seats 2025
+Chery Tiggo 8 A/T / Comfort 7 Seats 2025,1155000.0,25000.0,1180000.0,2025-01-02,Chery,Tiggo 8 A/T / Comfort 7 Seats 2025
+Chery Tiggo 8 A/T / Luxury 2025,1225000.0,25000.0,1250000.0,2025-01-02,Chery,Tiggo 8 A/T / Luxury 2025
+Chery Tiggo 7 A/T / Highline 2025,1085000.0,10000.0,1095000.0,2025-01-02,Chery,Tiggo 7 A/T / Highline 2025
+Chery Tiggo 7 A/T /  Baseline 2025,999000.0,11000.0,1010000.0,2025-01-02,Chery,Tiggo 7 A/T /  Baseline 2025
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2025,1045000.0,25000.0,1070000.0,2025-01-02,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2025
+Chery Tiggo 4 Pro A/T / Luxury 2025,970000.0,25000.0,995000.0,2025-01-02,Chery,Tiggo 4 Pro A/T / Luxury 2025
+Chery Tiggo 4 Pro A/T / Comfort 2025,895000.0,15000.0,910000.0,2025-01-02,Chery,Tiggo 4 Pro A/T / Comfort 2025
+Chery Arrizo 5 AT / HIGHLINE 2025,735000.0,10000.0,745000.0,2025-01-02,Chery,Arrizo 5 AT / HIGHLINE 2025
+Chery Arrizo 5 AT / BASELINE Leather 2025,710000.0,5000.0,715000.0,2025-01-02,Chery,Arrizo 5 AT / BASELINE Leather 2025
+Chery Arrizo 5 Manual / Base Line  / Leather 2025,660000.0,5000.0,665000.0,2025-01-02,Chery,Arrizo 5 Manual / Base Line  / Leather 2025
+Hyundai Tucson A/T / N-Line 2025,2525000.0,50000.0,2575000.0,2025-01-02,Hyundai,Tucson A/T / N-Line 2025
+Hyundai Tucson A/T / BLACK DIAMOND 2025,2370000.0,30000.0,2400000.0,2025-01-02,Hyundai,Tucson A/T / BLACK DIAMOND 2025
+Hyundai Tucson A/T / NIGHT 2025,2200000.0,30000.0,2230000.0,2025-01-02,Hyundai,Tucson A/T / NIGHT 2025
+Hyundai Tucson A/T / Redine 2025,1990000.0,10000.0,2000000.0,2025-01-02,Hyundai,Tucson A/T / Redine 2025
+Hyundai Elantra AD A/T / Top Line 2025,1155000.0,20000.0,1175000.0,2025-01-02,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,1050000.0,20000.0,1070000.0,2025-01-02,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,970000.0,20000.0,990000.0,2025-01-02,Hyundai,Elantra AD A/T / Smart 2025
+Hyundai Accent RB A/T / Highline 2025,910000.0,15000.0,925000.0,2025-01-02,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,875000.0,15000.0,890000.0,2025-01-02,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,855000.0,15000.0,870000.0,2025-01-02,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,810000.0,15000.0,825000.0,2025-01-02,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,780000.0,15000.0,795000.0,2025-01-02,Hyundai,Accent RB A/T / GL 2025
+Honda ZRV Automtic 2024,2250000.0,293440.0,2543440.0,2024-12-30,Honda,ZRV Automtic 2024
+Mini Country man A/T / JCW ALL 4 2025,3520000.0,230000.0,3750000.0,2024-12-26,Mini,Country man A/T / JCW ALL 4 2025
+Mini Country man A/T / JCW ALL 4 2025,2600000.0,190000.0,2790000.0,2024-12-26,Mini,Country man A/T / JCW ALL 4 2025
+Mini Country man A/T / C 2025,2330000.0,150000.0,2480000.0,2024-12-26,Mini,Country man A/T / C 2025
+Mini Cooper A/T  / C 2025,2100000.0,175000.0,2275000.0,2024-12-26,Mini,Cooper A/T  / C 2025
+Mini Cooper A/T / S - JWC 2025,2800000.0,150000.0,2950000.0,2024-12-26,Mini,Cooper A/T / S - JWC 2025
+Mini Cooper A/T / C- JCW 2025,2300000.0,150000.0,2450000.0,2024-12-26,Mini,Cooper A/T / C- JCW 2025
+Mini Cooper A/T / C - Classic 2025,2100000.0,150000.0,2250000.0,2024-12-26,Mini,Cooper A/T / C - Classic 2025
+BMW IX2 Automtic 2025,3650000.0,200000.0,3850000.0,2024-12-26,BMW,IX2 Automtic 2025
+BMW IX A/T / XDrive 50 2025,7350000.0,200000.0,7550000.0,2024-12-26,BMW,IX A/T / XDrive 50 2025
+BMW IX1 A/T / Elc 2025,3450000.0,200000.0,3650000.0,2024-12-26,BMW,IX1 A/T / Elc 2025
+BMW 7 Series A/T /  i7 XDrive60 2025,10560000.0,440000.0,11000000.0,2024-12-26,BMW,7 Series A/T /  i7 XDrive60 2025
+BMW X6 A/T / M60i xDrive 2025,9000000.0,250000.0,9250000.0,2024-12-26,BMW,X6 A/T / M60i xDrive 2025
+BMW X2 A/T / M 35I 2025,4700000.0,250000.0,4950000.0,2024-12-26,BMW,X2 A/T / M 35I 2025
+BMW X6 A/T / X6 xDrive40i 2025,7300000.0,400000.0,7700000.0,2024-12-26,BMW,X6 A/T / X6 xDrive40i 2025
+BMW X2 A/T / sDrive18i M Sport 2025,3650000.0,-200000.0,3450000.0,2024-12-26,BMW,X2 A/T / sDrive18i M Sport 2025
+BMW X1 A/T / M Sport 2025,3165000.0,185000.0,3350000.0,2024-12-26,BMW,X1 A/T / M Sport 2025
+BMW X1 A/T / X Line 2025,2800000.0,150000.0,2950000.0,2024-12-26,BMW,X1 A/T / X Line 2025
+BMW 7 Series A/T / 760i xDrive 2025,12750000.0,650000.0,13400000.0,2024-12-26,BMW,7 Series A/T / 760i xDrive 2025
+BMW 7 Series A/T / 740i 2025,10250000.0,950000.0,11200000.0,2024-12-26,BMW,7 Series A/T / 740i 2025
+BMW 420 A/T / M SPORT 2025,4600000.0,50000.0,4650000.0,2024-12-26,BMW,420 A/T / M SPORT 2025
+Vgv U70Pro Plus A/T / Flagship 2025,1239900.0,20000.0,1259900.0,2024-12-16,Vgv,U70Pro Plus A/T / Flagship 2025
+Vgv U70Pro Plus A/T / Top Line 2025,1169900.0,20090.0,1189990.0,2024-12-16,Vgv,U70Pro Plus A/T / Top Line 2025
+Vgv U70P Plus A/T / Highline 2025,1099900.0,15000.0,1114900.0,2024-12-16,Vgv,U70P Plus A/T / Highline 2025
+Subaru Forester Automtic 2024,2599000.0,176000.0,2775000.0,2024-12-16,Subaru,Forester Automtic 2024
+Subaru XV Crosstrek Automtic 2024,2350000.0,100000.0,2450000.0,2024-12-16,Subaru,XV Crosstrek Automtic 2024
+Toyota Land Cruiser A/T / Prado - VX Petrol 2025,8700000.0,2000000.0,10700000.0,2024-12-15,Toyota,Land Cruiser A/T / Prado - VX Petrol 2025
+Cupra Leon Automatic 2025,1.0,1898999.0,1899000.0,2024-12-11,Cupra,Leon Automatic 2025
+Byd F3 Manual 2025,620000.0,10000.0,630000.0,2024-12-04,Byd,F3 Manual 2025
+Byd F3 Automtic 2025,700000.0,10000.0,710000.0,2024-12-04,Byd,F3 Automtic 2025
+Nissan Juke A/T / Tekna Perso 2025,1165000.0,20000.0,1185000.0,2024-12-03,Nissan,Juke A/T / Tekna Perso 2025
+Nissan Juke A/T / Tekna 2025,1115000.0,20000.0,1135000.0,2024-12-03,Nissan,Juke A/T / Tekna 2025
+Nissan Juke A/T / Accenta 2025,1015000.0,20000.0,1035000.0,2024-12-03,Nissan,Juke A/T / Accenta 2025
+Nissan Qashqai AT / TEKNA  2T 2025,1482500.0,67500.0,1550000.0,2024-12-03,Nissan,Qashqai AT / TEKNA  2T 2025
+Nissan Qashqai AT / TEKNA 2025,1477500.0,52500.0,1530000.0,2024-12-03,Nissan,Qashqai AT / TEKNA 2025
+Nissan Qashqai AT / ACCENTA  2T 2025,1411500.0,58500.0,1470000.0,2024-12-03,Nissan,Qashqai AT / ACCENTA  2T 2025
+Nissan Qashqai AT / ACCENTA 2025,1406500.0,43500.0,1450000.0,2024-12-03,Nissan,Qashqai AT / ACCENTA 2025
+Nissan Sunny Automatic / Baseline 2025,735000.0,-40000.0,695000.0,2024-12-03,Nissan,Sunny Automatic / Baseline 2025
+Fiat Tipo manual / Entry‏ 2025,749900.0,20000.0,769900.0,2024-12-01,Fiat,Tipo manual / Entry‏ 2025
+Chery Tiggo 7 A/T / Highline 2025,1075000.0,10000.0,1085000.0,2024-12-01,Chery,Tiggo 7 A/T / Highline 2025
+Chery Tiggo 7 A/T /  Baseline 2025,990000.0,9000.0,999000.0,2024-12-01,Chery,Tiggo 7 A/T /  Baseline 2025
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2025,1030000.0,15000.0,1045000.0,2024-12-01,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2025
+Chery Tiggo 4 Pro A/T / Luxury 2025,955000.0,15000.0,970000.0,2024-12-01,Chery,Tiggo 4 Pro A/T / Luxury 2025
+Chery Tiggo 4 Pro A/T / Comfort 2025,880000.0,15000.0,895000.0,2024-12-01,Chery,Tiggo 4 Pro A/T / Comfort 2025
+Chery Arrizo 5 AT / HIGHLINE 2025,725000.0,10000.0,735000.0,2024-12-01,Chery,Arrizo 5 AT / HIGHLINE 2025
+Chery Arrizo 5 AT / BASELINE Leather 2025,700000.0,10000.0,710000.0,2024-12-01,Chery,Arrizo 5 AT / BASELINE Leather 2025
+Chery Arrizo 5 Manual / Base Line  / Leather 2025,655000.0,5000.0,660000.0,2024-12-01,Chery,Arrizo 5 Manual / Base Line  / Leather 2025
+MG 7 Automtic /luxury 2025,1.0,1599999.0,1600000.0,2024-11-30,MG,7 Automtic /luxury 2025
+Hyundai Santa Fe A/T / 4w 2025,3770000.0,130000.0,3900000.0,2024-11-28,Hyundai,Santa Fe A/T / 4w 2025
+Hyundai Santa Fe Automtic 2025,3220000.0,130000.0,3350000.0,2024-11-28,Hyundai,Santa Fe Automtic 2025
+Hyundai Accent RB A/T / Highline 2025,890000.0,20000.0,910000.0,2024-11-28,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,855000.0,20000.0,875000.0,2024-11-28,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,835000.0,20000.0,855000.0,2024-11-28,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,795000.0,15000.0,810000.0,2024-11-28,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,765000.0,15000.0,780000.0,2024-11-28,Hyundai,Accent RB A/T / GL 2025
+Hyundai Elantra AD A/T / Top Line 2025,1135000.0,20000.0,1155000.0,2024-11-28,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,1030000.0,20000.0,1050000.0,2024-11-28,Hyundai,Elantra AD A/T / Modern 2025
+Baic X7 A/T / Premium 2025,1694900.0,30000.0,1724900.0,2024-11-28,Baic,X7 A/T / Premium 2025
+Baic X7 A/T / Top Line 2025,1619900.0,30000.0,1649900.0,2024-11-28,Baic,X7 A/T / Top Line 2025
+Baic X7 A/T / Highline 2025,1544900.0,30000.0,1574900.0,2024-11-28,Baic,X7 A/T / Highline 2025
+Baic X55 A/T / Premium 2025,1484900.0,30000.0,1514900.0,2024-11-28,Baic,X55 A/T / Premium 2025
+Baic X55 A/T / Top Line 2025,1359900.0,30000.0,1389900.0,2024-11-28,Baic,X55 A/T / Top Line 2025
+Baic X55 A/T / Highline 2025,1259900.0,30000.0,1289900.0,2024-11-28,Baic,X55 A/T / Highline 2025
+Baic U5 plus A/T / Top Line 2025,924900.0,50000.0,974900.0,2024-11-28,Baic,U5 plus A/T / Top Line 2025
+Baic U5 plus A/T / Highline 2025,824900.0,50000.0,874900.0,2024-11-28,Baic,U5 plus A/T / Highline 2025
+Vgv U70Pro Plus A/T / Flagship 2025,1224900.0,15000.0,1239900.0,2024-11-19,Vgv,U70Pro Plus A/T / Flagship 2025
+Vgv U70Pro Plus A/T / Top Line 2025,1154900.0,15000.0,1169900.0,2024-11-19,Vgv,U70Pro Plus A/T / Top Line 2025
+Vgv U70P Plus A/T / Highline 2025,1084900.0,15000.0,1099900.0,2024-11-19,Vgv,U70P Plus A/T / Highline 2025
+Fiat Tipo manual / Entry‏ 2025,724900.0,25000.0,749900.0,2024-11-10,Fiat,Tipo manual / Entry‏ 2025
+Bestune B70 A/T / Premium 2024,1275000.0,170000.0,1445000.0,2024-11-07,Bestune,B70 A/T / Premium 2024
+Bestune B70 A/T / Deluxe 2024,1210000.0,185000.0,1395000.0,2024-11-07,Bestune,B70 A/T / Deluxe 2024
+Byd F3 Automtic 2025,690000.0,10000.0,700000.0,2024-11-03,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,610000.0,10000.0,620000.0,2024-11-03,Byd,F3 Manual 2025
+Kia Grand Cerato A/T / Highline 2024,1449900.0,50000.0,1499900.0,2024-10-25,Kia,Grand Cerato A/T / Highline 2024
+Kia Grand Cerato A/T / EX Cam 2024,1379900.0,50000.0,1429900.0,2024-10-25,Kia,Grand Cerato A/T / EX Cam 2024
+Kia Grand Cerato A/T / LX FO 2024,1249900.0,50000.0,1299900.0,2024-10-25,Kia,Grand Cerato A/T / LX FO 2024
+Kia Xceed A/T / Top Line / Panorama 2025,1599000.0,50000.0,1649000.0,2024-10-25,Kia,Xceed A/T / Top Line / Panorama 2025
+Kia Xceed A/T / Highline / Panorama 2025,1499000.0,50000.0,1549000.0,2024-10-25,Kia,Xceed A/T / Highline / Panorama 2025
+Kia Xceed A/T / Highline 2025,1399000.0,50000.0,1449000.0,2024-10-25,Kia,Xceed A/T / Highline 2025
+Volvo XC 40 A/T / Ultra Dark 2024,3385000.0,-386000.0,2999000.0,2024-10-22,Volvo,XC 40 A/T / Ultra Dark 2024
+Mitsubishi Outlander Sport Automtic / PREMIUM LINE 2025,1500000.0,50000.0,1550000.0,2024-10-13,Mitsubishi,Outlander Sport Automtic / PREMIUM LINE 2025
+Mitsubishi Outlander Sport Automtic / HIGH LINE 2025,1375000.0,50000.0,1425000.0,2024-10-13,Mitsubishi,Outlander Sport Automtic / HIGH LINE 2025
+Mitsubishi Outlander Sport A/T / Midline 2025,1.0,1374999.0,1375000.0,2024-10-13,Mitsubishi,Outlander Sport A/T / Midline 2025
+Geely Starray A/T / Sport +( AUTO MOBILITY) 2025,1979000.0,50000.0,2029000.0,2024-10-07,Geely,Starray A/T / Sport +( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport ( AUTO MOBILITY) 2025,1899000.0,50000.0,1949000.0,2024-10-07,Geely,Starray A/T / Sport ( AUTO MOBILITY) 2025
+Geely Starray A/T / Premium ( AUTO MOBILITY) 2025,1799000.0,50000.0,1849000.0,2024-10-07,Geely,Starray A/T / Premium ( AUTO MOBILITY) 2025
+Geely Starray A/T / Comfort ( AUTO MOBILITY) 2025,1699000.0,50000.0,1749000.0,2024-10-07,Geely,Starray A/T / Comfort ( AUTO MOBILITY) 2025
+Geely GX3 Pro A/T / Premium (AUTO MOBILITY) 2025,890000.0,35000.0,925000.0,2024-10-07,Geely,GX3 Pro A/T / Premium (AUTO MOBILITY) 2025
+Hyundai Accent RB A/T / Highline 2025,880000.0,10000.0,890000.0,2024-10-01,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,845000.0,10000.0,855000.0,2024-10-01,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,825000.0,10000.0,835000.0,2024-10-01,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,785000.0,10000.0,795000.0,2024-10-01,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,755000.0,10000.0,765000.0,2024-10-01,Hyundai,Accent RB A/T / GL 2025
+Hyundai Elantra AD A/T / Top Line 2025,1120000.0,15000.0,1135000.0,2024-10-01,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,1015000.0,15000.0,1030000.0,2024-10-01,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,950000.0,20000.0,970000.0,2024-10-01,Hyundai,Elantra AD A/T / Smart 2025
+Chery Tiggo 7 A/T / Highline 2025,1060000.0,15000.0,1075000.0,2024-10-01,Chery,Tiggo 7 A/T / Highline 2025
+Chery Tiggo 7 A/T /  Baseline 2025,980000.0,10000.0,990000.0,2024-10-01,Chery,Tiggo 7 A/T /  Baseline 2025
+Geely Starray A/T / Sport + (Abou Ghaly) 2025,1929000.0,120000.0,2049000.0,2024-10-01,Geely,Starray A/T / Sport + (Abou Ghaly) 2025
+Geely Starray A/T / Sport (Abou Ghaly) 2025,1849000.0,110000.0,1959000.0,2024-10-01,Geely,Starray A/T / Sport (Abou Ghaly) 2025
+Geely Starray A/T / Premium (Abou Ghaly) 2025,1749000.0,146000.0,1895000.0,2024-10-01,Geely,Starray A/T / Premium (Abou Ghaly) 2025
+Geely Starray A/T / Comfort / (Abou Ghaly) 2025,1649000.0,110000.0,1759000.0,2024-10-01,Geely,Starray A/T / Comfort / (Abou Ghaly) 2025
+Geely Okavango A/T /Premium / (Abou Ghaly) 2024,1669900.0,100000.0,1769900.0,2024-10-01,Geely,Okavango A/T /Premium / (Abou Ghaly) 2024
+Volvo XC 40 A/T / Ultra Dark 2024,2990000.0,395000.0,3385000.0,2024-09-29,Volvo,XC 40 A/T / Ultra Dark 2024
+Volvo XC 40 A/T /  Black Edition 2024,2690000.0,309000.0,2999000.0,2024-09-29,Volvo,XC 40 A/T /  Black Edition 2024
+Volvo XC60 A/T / Ultimate Dark 2024,4100000.0,100000.0,4200000.0,2024-09-29,Volvo,XC60 A/T / Ultimate Dark 2024
+Byd F3 Automtic 2025,670000.0,20000.0,690000.0,2024-09-16,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,590000.0,20000.0,610000.0,2024-09-16,Byd,F3 Manual 2025
+Geely Starray A/T / Comfort ( AUTO MOBILITY) 2025,1669000.0,30000.0,1699000.0,2024-09-05,Geely,Starray A/T / Comfort ( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport +( AUTO MOBILITY) 2025,1929000.0,50000.0,1979000.0,2024-09-05,Geely,Starray A/T / Sport +( AUTO MOBILITY) 2025
+Geely Starray A/T / Sport ( AUTO MOBILITY) 2025,1849000.0,50000.0,1899000.0,2024-09-05,Geely,Starray A/T / Sport ( AUTO MOBILITY) 2025
+Geely Starray A/T / Premium ( AUTO MOBILITY) 2025,1749000.0,50000.0,1799000.0,2024-09-05,Geely,Starray A/T / Premium ( AUTO MOBILITY) 2025
+Geely Starray A/T / Comfort ( AUTO MOBILITY) 2025,1649000.0,20000.0,1669000.0,2024-09-05,Geely,Starray A/T / Comfort ( AUTO MOBILITY) 2025
+Geely GX3 Pro A/T / Premium (AUTO MOBILITY) 2025,780000.0,110000.0,890000.0,2024-09-05,Geely,GX3 Pro A/T / Premium (AUTO MOBILITY) 2025
+Cupra Formentor Automtic 2024,2500000.0,50000.0,2550000.0,2024-09-02,Cupra,Formentor Automtic 2024
+Seat Tarraco A/T / FR 2024,2450000.0,50000.0,2500000.0,2024-09-02,Seat,Tarraco A/T / FR 2024
+Seat Tarraco A/T / Experience 2024,2300000.0,50000.0,2350000.0,2024-09-02,Seat,Tarraco A/T / Experience 2024
+Vgv U70 Pro A/T / Top Line 2024,1079900.0,20000.0,1099900.0,2024-09-02,Vgv,U70 Pro A/T / Top Line 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,780000.0,50000.0,830000.0,2024-09-01,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2025,1015000.0,15000.0,1030000.0,2024-09-01,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2025
+Chery Tiggo 4 Pro A/T / Luxury 2025,940000.0,15000.0,955000.0,2024-09-01,Chery,Tiggo 4 Pro A/T / Luxury 2025
+Chery Tiggo 4 Pro A/T / Comfort 2025,865000.0,15000.0,880000.0,2024-09-01,Chery,Tiggo 4 Pro A/T / Comfort 2025
+Chery Arrizo 5 AT / HIGHLINE 2025,715000.0,10000.0,725000.0,2024-09-01,Chery,Arrizo 5 AT / HIGHLINE 2025
+Chery Arrizo 5 AT / BASELINE Leather 2025,690000.0,10000.0,700000.0,2024-09-01,Chery,Arrizo 5 AT / BASELINE Leather 2025
+Chery Arrizo 5 Manual / Base Line  / Leather 2025,645000.0,10000.0,655000.0,2024-09-01,Chery,Arrizo 5 Manual / Base Line  / Leather 2025
+Byd F3 Automtic 2025,650000.0,20000.0,670000.0,2024-09-01,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,570000.0,20000.0,590000.0,2024-09-01,Byd,F3 Manual 2025
+Hyundai Elantra AD A/T / Top Line 2025,1095000.0,25000.0,1120000.0,2024-08-29,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,995000.0,20000.0,1015000.0,2024-08-29,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,935000.0,15000.0,950000.0,2024-08-29,Hyundai,Elantra AD A/T / Smart 2025
+Hyundai Accent RB A/T / Highline 2025,860000.0,20000.0,880000.0,2024-08-29,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,825000.0,20000.0,845000.0,2024-08-29,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,805000.0,20000.0,825000.0,2024-08-29,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,770000.0,15000.0,785000.0,2024-08-29,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,740000.0,15000.0,755000.0,2024-08-29,Hyundai,Accent RB A/T / GL 2025
+Chery EQ7 Automtic 2025,0.0,1790000.0,1790000.0,2024-08-26,Chery,EQ7 Automtic 2025
+Baic X7 A/T / Premium 2025,1674900.0,20000.0,1694900.0,2024-08-25,Baic,X7 A/T / Premium 2025
+Baic X7 A/T / Top Line 2025,1599900.0,20000.0,1619900.0,2024-08-25,Baic,X7 A/T / Top Line 2025
+Baic X7 A/T / Highline 2025,1524900.0,20000.0,1544900.0,2024-08-25,Baic,X7 A/T / Highline 2025
+Baic X55 A/T / Premium 2025,1474900.0,10000.0,1484900.0,2024-08-25,Baic,X55 A/T / Premium 2025
+Baic X55 A/T / Top Line 2025,1349900.0,10000.0,1359900.0,2024-08-25,Baic,X55 A/T / Top Line 2025
+Baic X55 A/T / Highline 2025,1249900.0,10000.0,1259900.0,2024-08-25,Baic,X55 A/T / Highline 2025
+Baic U5 plus A/T / Top Line 2025,899900.0,25000.0,924900.0,2024-08-25,Baic,U5 plus A/T / Top Line 2025
+Baic U5 plus A/T / Highline 2025,799900.0,25000.0,824900.0,2024-08-25,Baic,U5 plus A/T / Highline 2025
+MG One A/T / Luxury 2025,1420000.0,60000.0,1480000.0,2024-08-21,MG,One A/T / Luxury 2025
+MG One A/T / Standard 2025,1320000.0,60000.0,1380000.0,2024-08-21,MG,One A/T / Standard 2025
+MG ZS A/T / Luxury 2025,1050000.0,30000.0,1080000.0,2024-08-21,MG,ZS A/T / Luxury 2025
+MG ZS Automatic / Comfort / ACC 2025,1025000.0,25000.0,1050000.0,2024-08-21,MG,ZS Automatic / Comfort / ACC 2025
+MG ZS Automatic / Comfort 2025,1000000.0,30000.0,1030000.0,2024-08-21,MG,ZS Automatic / Comfort 2025
+MG 6 A/T / LUX / Red Interior 2025,1260000.0,10000.0,1270000.0,2024-08-21,MG,6 A/T / LUX / Red Interior 2025
+MG 5 A/T / Luxury 2025,950000.0,50000.0,1000000.0,2024-08-21,MG,5 A/T / Luxury 2025
+MG 5 A/T / Standard 2025,860000.0,40000.0,900000.0,2024-08-21,MG,5 A/T / Standard 2025
+Toyota Fortuner A/T / Sport 2025,3750000.0,150000.0,3900000.0,2024-08-19,Toyota,Fortuner A/T / Sport 2025
+Toyota Fortuner Automtic / ELEGANCE 2025,3550000.0,150000.0,3700000.0,2024-08-19,Toyota,Fortuner Automtic / ELEGANCE 2025
+Toyota Fortuner A/T / SMART 2025,3250000.0,150000.0,3400000.0,2024-08-19,Toyota,Fortuner A/T / SMART 2025
+Nissan Sentra A/T / Premium 2025,1049000.0,50000.0,1099000.0,2024-08-18,Nissan,Sentra A/T / Premium 2025
+Nissan Sentra A/T / Highline 2025,949000.0,50000.0,999000.0,2024-08-18,Nissan,Sentra A/T / Highline 2025
+Nissan Sunny A/T / Super Saloon 2025,761000.0,34000.0,795000.0,2024-08-18,Nissan,Sunny A/T / Super Saloon 2025
+Nissan Sunny A/T / plus 2025,747000.0,18000.0,765000.0,2024-08-18,Nissan,Sunny A/T / plus 2025
+Nissan Sunny Automatic / Baseline 2025,726500.0,8500.0,735000.0,2024-08-18,Nissan,Sunny Automatic / Baseline 2025
+Volvo XC60 A/T / Essential 2024,4100000.0,-400000.0,3700000.0,2024-08-15,Volvo,XC60 A/T / Essential 2024
+Volvo XC 40 A/T / Ultra Dark 2024,3385000.0,-395000.0,2990000.0,2024-08-15,Volvo,XC 40 A/T / Ultra Dark 2024
+Volvo XC 40 A/T /  Black Edition 2024,2999000.0,-309000.0,2690000.0,2024-08-15,Volvo,XC 40 A/T /  Black Edition 2024
+Byd F3 Automtic 2025,640000.0,10000.0,650000.0,2024-08-14,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,560000.0,10000.0,570000.0,2024-08-14,Byd,F3 Manual 2025
+Cupra Formentor Automtic 2024,2420000.0,80000.0,2500000.0,2024-08-12,Cupra,Formentor Automtic 2024
+Seat Tarraco A/T / FR 2024,2370000.0,80000.0,2450000.0,2024-08-12,Seat,Tarraco A/T / FR 2024
+Seat Tarraco A/T / Experience 2024,2220000.0,80000.0,2300000.0,2024-08-12,Seat,Tarraco A/T / Experience 2024
+MG HS A/T / Luxury 2025,1570000.0,30000.0,1600000.0,2024-08-11,MG,HS A/T / Luxury 2025
+MG One A/T / Luxury 2025,1370000.0,50000.0,1420000.0,2024-08-11,MG,One A/T / Luxury 2025
+MG One A/T / Standard 2025,1280000.0,70000.0,1350000.0,2024-08-11,MG,One A/T / Standard 2025
+MG ZS A/T / Luxury 2025,1020000.0,30000.0,1050000.0,2024-08-11,MG,ZS A/T / Luxury 2025
+MG ZS Automatic / Comfort / ACC 2025,1000000.0,25000.0,1025000.0,2024-08-11,MG,ZS Automatic / Comfort / ACC 2025
+MG ZS Automatic / Comfort 2025,975000.0,25000.0,1000000.0,2024-08-11,MG,ZS Automatic / Comfort 2025
+MG RX5 Plus A/T / Luxury 2025,1500000.0,40000.0,1540000.0,2024-08-11,MG,RX5 Plus A/T / Luxury 2025
+MG RX5 Plus A/T / Comfort 2025,1450000.0,40000.0,1490000.0,2024-08-11,MG,RX5 Plus A/T / Comfort 2025
+MG 6 A/T / LUX / Red Interior 2025,1250000.0,10000.0,1260000.0,2024-08-11,MG,6 A/T / LUX / Red Interior 2025
+MG 6 A/T / LUX / Black interior 2025,1220000.0,30000.0,1250000.0,2024-08-11,MG,6 A/T / LUX / Black interior 2025
+MG 5 A/T / Luxury 2025,900000.0,50000.0,950000.0,2024-08-11,MG,5 A/T / Luxury 2025
+MG 5 A/T / Standard 2025,830000.0,30000.0,860000.0,2024-08-11,MG,5 A/T / Standard 2025
+Vgv U70 Pro A/T / Top Line 2024,1195000.0,-115100.0,1079900.0,2024-08-05,Vgv,U70 Pro A/T / Top Line 2024
+Seat Tarraco A/T / FR 2024,2350000.0,20000.0,2370000.0,2024-08-01,Seat,Tarraco A/T / FR 2024
+Seat Tarraco A/T / Experience 2024,2200000.0,20000.0,2220000.0,2024-08-01,Seat,Tarraco A/T / Experience 2024
+Cupra Formentor Automtic 2024,2400000.0,20000.0,2420000.0,2024-08-01,Cupra,Formentor Automtic 2024
+Hyundai Elantra AD A/T / Top Line 2025,1080000.0,15000.0,1095000.0,2024-08-01,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,980000.0,15000.0,995000.0,2024-08-01,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,920000.0,15000.0,935000.0,2024-08-01,Hyundai,Elantra AD A/T / Smart 2025
+Hyundai Accent RB A/T / Highline 2025,850000.0,10000.0,860000.0,2024-08-01,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,815000.0,10000.0,825000.0,2024-08-01,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,795000.0,10000.0,805000.0,2024-08-01,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,760000.0,10000.0,770000.0,2024-08-01,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,730000.0,10000.0,740000.0,2024-08-01,Hyundai,Accent RB A/T / GL 2025
+Mitsubishi Outlander Sport Automtic / PREMIUM LINE 2025,1450000.0,50000.0,1500000.0,2024-08-01,Mitsubishi,Outlander Sport Automtic / PREMIUM LINE 2025
+Chery Tiggo 7 A/T / Highline 2025,1045000.0,15000.0,1060000.0,2024-08-01,Chery,Tiggo 7 A/T / Highline 2025
+Chery Tiggo 7 A/T /  Baseline 2025,970000.0,10000.0,980000.0,2024-08-01,Chery,Tiggo 7 A/T /  Baseline 2025
+Chery Tiggo 4 Pro A/T / Highline / Turbo 2025,999000.0,16000.0,1015000.0,2024-08-01,Chery,Tiggo 4 Pro A/T / Highline / Turbo 2025
+Chery Tiggo 4 Pro A/T / Luxury 2025,925000.0,15000.0,940000.0,2024-08-01,Chery,Tiggo 4 Pro A/T / Luxury 2025
+Chery Tiggo 4 Pro A/T / Comfort 2025,850000.0,15000.0,865000.0,2024-08-01,Chery,Tiggo 4 Pro A/T / Comfort 2025
+Byd F3 Automtic 2025,620000.0,20000.0,640000.0,2024-07-03,Byd,F3 Automtic 2025
+Byd F3 Manual 2025,540000.0,20000.0,560000.0,2024-07-03,Byd,F3 Manual 2025
+Hyundai Elantra AD A/T / Top Line 2025,1050000.0,30000.0,1080000.0,2024-07-01,Hyundai,Elantra AD A/T / Top Line 2025
+Hyundai Elantra AD A/T / Modern 2025,950000.0,30000.0,980000.0,2024-07-01,Hyundai,Elantra AD A/T / Modern 2025
+Hyundai Elantra AD A/T / Smart 2025,890000.0,30000.0,920000.0,2024-07-01,Hyundai,Elantra AD A/T / Smart 2025
+Hyundai Accent RB A/T / Highline 2025,825000.0,25000.0,850000.0,2024-07-01,Hyundai,Accent RB A/T / Highline 2025
+Hyundai Accent RB A/T / DAB ABS PLUS 2025,790000.0,25000.0,815000.0,2024-07-01,Hyundai,Accent RB A/T / DAB ABS PLUS 2025
+Hyundai Accent RB A/T / DAB ABS 2025,770000.0,25000.0,795000.0,2024-07-01,Hyundai,Accent RB A/T / DAB ABS 2025
+Hyundai Accent RB A/T / SR 2025,735000.0,25000.0,760000.0,2024-07-01,Hyundai,Accent RB A/T / SR 2025
+Hyundai Accent RB A/T / GL 2025,705000.0,25000.0,730000.0,2024-07-01,Hyundai,Accent RB A/T / GL 2025
+BMW 7 Series A/T /  i7 XDrive60 2024,10560000.0,-60000.0,10500000.0,2024-07-01,BMW,7 Series A/T /  i7 XDrive60 2024
+BMW 7 Series A/T /  i7 XDrive60 2024,10500000.0,60000.0,10560000.0,2024-07-01,BMW,7 Series A/T /  i7 XDrive60 2024
+Soueast DX5 A/T / Top Line 2024,950000.0,-50000.0,900000.0,2024-06-25,Soueast,DX5 A/T / Top Line 2024
+Geely Starray A/T / Sport +( AUTO MOBILITY) 2025,1849000.0,80000.0,1929000.0,2024-06-10,Geely,Starray A/T / Sport +( AUTO MOBILITY) 2025
+BMW X1 A/T / M Sport 2025,3275000.0,-110000.0,3165000.0,2024-06-02,BMW,X1 A/T / M Sport 2025
+BMW 7 Series A/T / 740i 2025,9900000.0,350000.0,10250000.0,2024-06-02,BMW,7 Series A/T / 740i 2025
+Chery Tiggo 3 Automtic / Tinted Glass 2024,855000.0,-75000.0,780000.0,2024-05-29,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Subaru Forester Automtic 2024,2695000.0,-96000.0,2599000.0,2024-05-21,Subaru,Forester Automtic 2024
+Subaru XV Crosstrek Automtic 2024,2495000.0,-145000.0,2350000.0,2024-05-21,Subaru,XV Crosstrek Automtic 2024
+Soueast DX5 A/T / Top Line 2024,860000.0,90000.0,950000.0,2024-05-09,Soueast,DX5 A/T / Top Line 2024
+Kia Grand Cerato A/T / Highline 2024,1649900.0,-200000.0,1449900.0,2024-04-30,Kia,Grand Cerato A/T / Highline 2024
+Kia Grand Cerato A/T / EX Cam 2024,1549900.0,-170000.0,1379900.0,2024-04-30,Kia,Grand Cerato A/T / EX Cam 2024
+Kia Grand Cerato A/T / LX FO 2024,1449900.0,-200000.0,1249900.0,2024-04-30,Kia,Grand Cerato A/T / LX FO 2024
+Geely Okavango A/T /Premium / (Abou Ghaly) 2024,1879900.0,-210000.0,1669900.0,2024-04-24,Geely,Okavango A/T /Premium / (Abou Ghaly) 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,955000.0,-100000.0,855000.0,2024-04-18,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Ford Focus A/T /  Titanium 5Dr 2023,1465000.0,-100000.0,1365000.0,2024-04-15,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,1425000.0,-100000.0,1325000.0,2024-04-15,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,1485000.0,-100000.0,1385000.0,2024-04-15,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,1450000.0,-100000.0,1350000.0,2024-04-15,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,1390000.0,-100000.0,1290000.0,2024-04-15,Ford,Focus A/T / Trend 4d 2023
+Cupra Formentor Automtic 2024,2550000.0,-150000.0,2400000.0,2024-04-15,Cupra,Formentor Automtic 2024
+Seat Tarraco A/T / FR 2024,2600000.0,-250000.0,2350000.0,2024-04-15,Seat,Tarraco A/T / FR 2024
+Seat Tarraco A/T / Experience 2024,2400000.0,-200000.0,2200000.0,2024-04-15,Seat,Tarraco A/T / Experience 2024
+Alfa Romeo Tonale A/T / Veloce 2024,3010000.0,-60000.0,2950000.0,2024-04-02,Alfa Romeo,Romeo Tonale A/T / Veloce 2024
+Alfa Romeo Tonale A/T / TI 2024,2790000.0,-100000.0,2690000.0,2024-04-02,Alfa Romeo,Romeo Tonale A/T / TI 2024
+Suzuki Grand vitara A/T / GLX 2 Tone 2024,2050000.0,-250000.0,1800000.0,2024-03-27,Suzuki,Grand vitara A/T / GLX 2 Tone 2024
+Suzuki Grand vitara A/T / GLX 2024,2000000.0,-250000.0,1750000.0,2024-03-27,Suzuki,Grand vitara A/T / GLX 2024
+Suzuki Fronx A/T / GLX 2 Tone 2024,1700000.0,-200000.0,1500000.0,2024-03-27,Suzuki,Fronx A/T / GLX 2 Tone 2024
+Suzuki Fronx A/T / GLX 2024,1650000.0,-200000.0,1450000.0,2024-03-27,Suzuki,Fronx A/T / GLX 2024
+Suzuki Fronx A/T / GL / 2 tone 2024,1600000.0,-200000.0,1400000.0,2024-03-27,Suzuki,Fronx A/T / GL / 2 tone 2024
+Suzuki Fronx A/T / GL 2024,1550000.0,-200000.0,1350000.0,2024-03-27,Suzuki,Fronx A/T / GL 2024
+Jac JS3 A/T / Top Line 2024,1104900.0,-86000.0,1018900.0,2024-03-20,Jac,JS3 A/T / Top Line 2024
+Citroën C Elysee A/T / Luxury 2024,1150000.0,-190000.0,960000.0,2024-03-20,Citroën,C Elysee A/T / Luxury 2024
+Geely Okavango A/T /Premium / (Abou Ghaly) 2024,1513900.0,366000.0,1879900.0,2024-03-14,Geely,Okavango A/T /Premium / (Abou Ghaly) 2024
+KGM Tivoli XLV Automtic 2024,1600000.0,-200000.0,1400000.0,2024-03-13,KGM,Tivoli XLV Automtic 2024
+KGM Tivoli Automtic 2024,1400000.0,-25000.0,1375000.0,2024-03-13,KGM,Tivoli Automtic 2024
+KGM Tivoli Automtic 2024,1575000.0,-175000.0,1400000.0,2024-03-13,KGM,Tivoli Automtic 2024
+KGM Tivoli XLV Automtic 2024,1190000.0,410000.0,1600000.0,2024-03-13,KGM,Tivoli XLV Automtic 2024
+KGM Tivoli Automtic 2024,1150000.0,425000.0,1575000.0,2024-03-13,KGM,Tivoli Automtic 2024
+Soueast DX8S Coupe A/T / Active 2024,989990.0,209010.0,1199000.0,2024-03-07,Soueast,DX8S Coupe A/T / Active 2024
+Zotye T300 Automtic 2024,1.0,998999.0,999000.0,2024-02-28,Zotye,T300 Automtic 2024
+Zotye T300 manual‏ 2024,1.0,774899.0,774900.0,2024-02-28,Zotye,T300 manual‏ 2024
+Alfa Romeo Tonale A/T / Veloce 2024,2600000.0,410000.0,3010000.0,2024-02-20,Alfa Romeo,Romeo Tonale A/T / Veloce 2024
+Alfa Romeo Tonale A/T / TI 2024,2400000.0,390000.0,2790000.0,2024-02-20,Alfa Romeo,Romeo Tonale A/T / TI 2024
+Subaru XV Crosstrek Automtic 2024,2100000.0,395000.0,2495000.0,2024-02-19,Subaru,XV Crosstrek Automtic 2024
+Suzuki Grand vitara A/T / GLX 2 Tone 2024,1549900.0,500100.0,2050000.0,2024-02-19,Suzuki,Grand vitara A/T / GLX 2 Tone 2024
+Suzuki Grand vitara A/T / GLX 2024,1499900.0,550100.0,2050000.0,2024-02-19,Suzuki,Grand vitara A/T / GLX 2024
+Suzuki Fronx A/T / GLX 2 Tone 2024,1299900.0,400100.0,1700000.0,2024-02-19,Suzuki,Fronx A/T / GLX 2 Tone 2024
+Suzuki Fronx A/T / GLX 2024,1249900.0,400100.0,1650000.0,2024-02-19,Suzuki,Fronx A/T / GLX 2024
+Suzuki Fronx A/T / GL 2024,1149900.0,400100.0,1550000.0,2024-02-19,Suzuki,Fronx A/T / GL 2024
+Citroën C Elysee A/T / Luxury 2024,959000.0,191000.0,1150000.0,2024-02-14,Citroën,C Elysee A/T / Luxury 2024
+Ford Focus A/T /  Titanium 5Dr 2023,1380000.0,85000.0,1465000.0,2024-02-13,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Titanium 4d 2023,1385000.0,100000.0,1485000.0,2024-02-13,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 5d 2023,1340000.0,85000.0,1425000.0,2024-02-13,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Connected 4d 2023,1350000.0,100000.0,1450000.0,2024-02-13,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,1290000.0,100000.0,1390000.0,2024-02-13,Ford,Focus A/T / Trend 4d 2023
+Jac JS3 A/T / Top Line 2024,1079900.0,25000.0,1104900.0,2024-02-13,Jac,JS3 A/T / Top Line 2024
+Dongfeng A30 Shine A/T / SHINE -Limited Edition 2024,1125000.0,60000.0,1185000.0,2024-02-06,Dongfeng,A30 Shine A/T / SHINE -Limited Edition 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,850000.0,105000.0,955000.0,2024-02-01,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Mini Mini Cooper S A/T / S 3-Door Iconic 2024,2050000.0,370000.0,2420000.0,2024-01-31,Mini,Mini Cooper S A/T / S 3-Door Iconic 2024
+BMW X6 M A/T / M60I 2024,7300000.0,1700000.0,9000000.0,2024-01-31,BMW,X6 M A/T / M60I 2024
+BMW X3 A/T / xDrive30i  xLine 2024,3800000.0,800000.0,4600000.0,2024-01-31,BMW,X3 A/T / xDrive30i  xLine 2024
+BMW 320 A/T / m340i xdrive 2024,4750000.0,750000.0,5500000.0,2024-01-31,BMW,320 A/T / m340i xdrive 2024
+BMW 320 A/T / 330 M SPORT 2024,3500000.0,600000.0,4100000.0,2024-01-31,BMW,320 A/T / 330 M SPORT 2024
+BMW 320 A/T / Sport 2024,2750000.0,600000.0,3350000.0,2024-01-31,BMW,320 A/T / Sport 2024
+BMW 320 A/T / Luxury 2024,2575000.0,525000.0,3100000.0,2024-01-31,BMW,320 A/T / Luxury 2024
+BMW 320 A/T / Advantage 2024,2400000.0,500000.0,2900000.0,2024-01-31,BMW,320 A/T / Advantage 2024
+Ford Focus A/T /  Titanium 5Dr 2023,1230000.0,150000.0,1380000.0,2024-01-24,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,1190000.0,150000.0,1340000.0,2024-01-24,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,1235000.0,150000.0,1385000.0,2024-01-24,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,1200000.0,150000.0,1350000.0,2024-01-24,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,1140000.0,150000.0,1290000.0,2024-01-24,Ford,Focus A/T / Trend 4d 2023
+Jac JS3 A/T / Top Line 2024,919900.0,160000.0,1079900.0,2024-01-24,Jac,JS3 A/T / Top Line 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,810000.0,40000.0,850000.0,2024-01-21,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Citroën C Elysee A/T / Luxury 2024,889000.0,70000.0,959000.0,2024-01-14,Citroën,C Elysee A/T / Luxury 2024
+Jac JS3 A/T / Top Line 2024,889900.0,30000.0,919900.0,2024-01-07,Jac,JS3 A/T / Top Line 2024
+Soueast DX8S Coupe A/T / Active 2024,915000.0,74990.0,989990.0,2024-01-03,Soueast,DX8S Coupe A/T / Active 2024
+Soueast DX7 NOVA A/T / Highline 2024,979900.0,10000.0,989900.0,2024-01-03,Soueast,DX7 NOVA A/T / Highline 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,765000.0,45000.0,810000.0,2024-01-02,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Hyundai Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024,760000.0,130000.0,890000.0,2023-12-31,Hyundai,Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024
+Bestune B70 A/T / Premium 2024,1245000.0,30000.0,1275000.0,2023-12-21,Bestune,B70 A/T / Premium 2024
+Bestune B70 A/T / Deluxe 2024,1180000.0,30000.0,1210000.0,2023-12-21,Bestune,B70 A/T / Deluxe 2024
+Ford Focus A/T /  Titanium 5Dr 2023,1130000.0,100000.0,1230000.0,2023-12-17,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,1090000.0,100000.0,1190000.0,2023-12-17,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,1135000.0,100000.0,1235000.0,2023-12-17,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,1100000.0,100000.0,1200000.0,2023-12-17,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,1040000.0,100000.0,1140000.0,2023-12-17,Ford,Focus A/T / Trend 4d 2023
+Jac JS3 A/T / Top Line 2024,824900.0,65000.0,889900.0,2023-12-07,Jac,JS3 A/T / Top Line 2024
+Citroën C Elysee A/T / Luxury 2024,849000.0,40000.0,889000.0,2023-12-05,Citroën,C Elysee A/T / Luxury 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,720000.0,45000.0,765000.0,2023-12-03,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Soueast DX5 A/T / Top Line 2024,779000.0,81000.0,860000.0,2023-11-30,Soueast,DX5 A/T / Top Line 2024
+Geely Okavango A/T /Premium / (Abou Ghaly) 2024,1449900.0,64000.0,1513900.0,2023-11-14,Geely,Okavango A/T /Premium / (Abou Ghaly) 2024
+Citroën C Elysee A/T / Luxury 2024,759000.0,90000.0,849000.0,2023-11-08,Citroën,C Elysee A/T / Luxury 2024
+Geely Okavango A/T /Premium / (Abou Ghaly) 2024,1429900.0,20000.0,1449900.0,2023-11-01,Geely,Okavango A/T /Premium / (Abou Ghaly) 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,680000.0,40000.0,720000.0,2023-11-01,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Jac JS3 A/T / Top Line 2024,774900.0,50000.0,824900.0,2023-10-31,Jac,JS3 A/T / Top Line 2024
+Soueast DX5 A/T / Top Line 2024,769000.0,10000.0,779000.0,2023-10-29,Soueast,DX5 A/T / Top Line 2024
+Citroën C Elysee A/T / Luxury 2024,749000.0,10000.0,759000.0,2023-10-22,Citroën,C Elysee A/T / Luxury 2024
+Hyundai Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024,745000.0,15000.0,760000.0,2023-10-16,Hyundai,Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,665000.0,15000.0,680000.0,2023-10-15,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Ford Focus A/T /  Titanium 5Dr 2023,1080000.0,50000.0,1130000.0,2023-09-10,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,1040000.0,50000.0,1090000.0,2023-09-10,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,1085000.0,50000.0,1135000.0,2023-09-10,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,1050000.0,50000.0,1100000.0,2023-09-10,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,990000.0,50000.0,1040000.0,2023-09-10,Ford,Focus A/T / Trend 4d 2023
+Chery Tiggo 3 Automtic / Tinted Glass 2024,625000.0,40000.0,665000.0,2023-09-06,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Hyundai Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024,725000.0,20000.0,745000.0,2023-09-03,Hyundai,Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024
+Hyundai Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024,700000.0,25000.0,725000.0,2023-07-31,Hyundai,Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024
+Chery Tiggo 3 Automtic / Tinted Glass 2024,610000.0,15000.0,625000.0,2023-07-19,Chery,Tiggo 3 Automtic / Tinted Glass 2024
+Hyundai Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024,650000.0,50000.0,700000.0,2023-07-04,Hyundai,Elantra HD A/T / HIGHLINE TINTED GLASS 15 2024
+Ford Focus A/T / Connected 5d 2023,860000.0,180000.0,1040000.0,2023-06-01,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,905000.0,180000.0,1085000.0,2023-06-01,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,870000.0,180000.0,1050000.0,2023-06-01,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,840000.0,150000.0,990000.0,2023-06-01,Ford,Focus A/T / Trend 4d 2023
+Ford Focus A/T /  Titanium 5Dr 2023,865000.0,35000.0,900000.0,2023-05-03,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,825000.0,35000.0,860000.0,2023-05-03,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,870000.0,35000.0,905000.0,2023-05-03,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,835000.0,35000.0,870000.0,2023-05-03,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,805000.0,35000.0,840000.0,2023-05-03,Ford,Focus A/T / Trend 4d 2023
+Ford Focus A/T /  Titanium 5Dr 2023,835000.0,30000.0,865000.0,2023-04-02,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,795000.0,30000.0,825000.0,2023-04-02,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,840000.0,30000.0,870000.0,2023-04-02,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,805000.0,30000.0,835000.0,2023-04-02,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,775000.0,30000.0,805000.0,2023-04-02,Ford,Focus A/T / Trend 4d 2023
+Ford Focus A/T / Connected 5d 2023,760000.0,35000.0,795000.0,2023-03-02,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,805000.0,35000.0,840000.0,2023-03-02,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,770000.0,35000.0,805000.0,2023-03-02,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,740000.0,35000.0,775000.0,2023-03-02,Ford,Focus A/T / Trend 4d 2023
+Ford Focus A/T /  Titanium 5Dr 2023,760000.0,40000.0,800000.0,2023-02-01,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,720000.0,40000.0,760000.0,2023-02-01,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,765000.0,40000.0,805000.0,2023-02-01,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,730000.0,40000.0,770000.0,2023-02-01,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,700000.0,40000.0,740000.0,2023-02-01,Ford,Focus A/T / Trend 4d 2023
+Ford Focus A/T /  Titanium 5Dr 2023,710000.0,50000.0,760000.0,2023-01-18,Ford,Focus A/T /  Titanium 5Dr 2023
+Ford Focus A/T / Connected 5d 2023,670000.0,50000.0,720000.0,2023-01-18,Ford,Focus A/T / Connected 5d 2023
+Ford Focus A/T / Titanium 4d 2023,715000.0,50000.0,765000.0,2023-01-18,Ford,Focus A/T / Titanium 4d 2023
+Ford Focus A/T / Connected 4d 2023,680000.0,50000.0,730000.0,2023-01-18,Ford,Focus A/T / Connected 4d 2023
+Ford Focus A/T / Trend 4d 2023,560000.0,140000.0,700000.0,2023-01-18,Ford,Focus A/T / Trend 4d 2023
